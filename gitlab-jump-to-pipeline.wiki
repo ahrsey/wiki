@@ -1,0 +1,11 @@
+Had an idea to build a cli tool that lets you jump directly into the latest pipeline you pushed
+
+- https://www.youtube.com/watch?v=0LsMC3ZiXkA
+- https://stackoverflow.com/questions/39751840/cant-find-out-base-gitlab-api-base-url#:~:text=If%20you%20wish%20to%20view,user%20if%20you're%20authenticated.
+- https://docs.gitlab.com/ee/api/pipelines.html
+
+
+I realised that I can do this without using the api. By just using a link to
+latest pipeline and figuring out branch to filter on from the git config
+
+

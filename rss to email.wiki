@@ -1,0 +1,6 @@
+I was thinking it might be cool to run a service that I can trigger or via cron
+that can ping a list of rss and check if there are any new posts and email them
+to me
+
+https://en.wikipedia.org/wiki/Maildir
+https://en.wikipedia.org/wiki/Maildir

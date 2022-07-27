@@ -1,0 +1,43 @@
+= SOLID =
+- https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
+
+== Single responsibility principle ==
+
+A class should have one and only one reason to change, meaning that a class should have only one job.
+
+
+
+== Open-closed Principle (OCP) ==
+
+Objects or entities should be open for extension but closed for modification.
+
+-
+
+1. They are “Open For Extension”.
+This means that the behavior of the module can be extended. That we can make
+the module behave in new and different ways as the requirements of the application
+change, or to meet the needs of new applications.
+
+2. They are “Closed for Modification”.
+The source code of such a module is inviolate. No one is allowed to make source
+code changes to it.
+
+Robert C. Martin "The Open-Closed Principle", C++ Report, January 1996
+- https://drive.google.com/file/d/0BwhCYaYDn8EgN2M5MTkwM2EtNWFkZC00ZTI3LWFjZTUtNTFhZGZiYmUzODc1/view?resourcekey=0-FsS837CGML599A_o5D-nAw
+
+
+
+== Liskov Substitution Principle ==
+
+Let q(x) be a property provable about objects of x of type T. Then q(y)
+should be provable for objects y of type S where S is a subtype of T.
+
+-
+
+I had some trouble understanding this one. It looks like the reason for it is
+to create better class inheritance base classes.
+
+I found a few articles about this concept and most of them just refactor the base
+class to be more generic and then extend that with more detailed class types.
+
+- https://javatechonline.com/solid-principles-the-liskov-substitution-principle/

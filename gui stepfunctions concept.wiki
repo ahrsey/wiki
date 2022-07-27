@@ -1,0 +1,5 @@
+Was thinking of creating something that can use normal lambdas, sqs, sns etc
+and visualise execution to allow for graph layouts that step functions provide,
+logging, and easy viewing of logs etc but also look into other step function
+functionality like parallel exections and look into creating some aws libs to
+extend gui interfaces with step function like functionality

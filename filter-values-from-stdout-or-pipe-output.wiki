@@ -1,0 +1,4 @@
+Figure out how to take piped content and filter it by regex. Doesn't need to be
+custom build, but would like a script that does this. So I can extract urls
+from failure outputs. Match regex to string of Fail/error and extract paths so
+I can open them directly in vim

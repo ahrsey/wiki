@@ -1,0 +1,9 @@
+A dashboard like https://wtfutil.com/modules/clocks/ 
+
+Thought it might be a good time to test out
+https://github.com/charmbracelet/bubbletea and learn golang.
+
+I can build integrations for jira and pr's etc
+
+This could also be used to monitor wifi and other things like that and music
+and other things I don't want ot use from the gui

@@ -1,0 +1,62 @@
+= cdk =
+
+Possibly helpful CDK related guides
+- https://github.com/kevinslin/open-cdk
+- https://github.com/kolomied/awesome-cdk
+- https://github.com/cloudcomponents/cdk-constructs/tree/master/examples
+- https://github.com/blndspt/aws-full-stack-template
+- https://github.com/amazon-archives/aws-full-stack-template
+- https://github.com/aws-samples/aws-bookstore-demo-app
+- https://bobbyhadz.com/blog/how-does-aws-cdk-work
+- https://bobbyhadz.com/blog/cdk-constructs-tutorial
+- https://bobbyhadz.com/blog/aws-cdk-identifiers
+- https://bobbyhadz.com/blog/how-to-use-context-aws-cdk
+- https://bobbyhadz.com/blog/aws-cdk-parameters-example
+- https://bobbyhadz.com/blog/aws-cdk-vpc-examplehttps://bobbyhadz.com/blog/aws-cdk-vpc-example
+- https://bobbyhadz.com/blog/aws-cdk-security-group-example
+
+= sns emails =
+
+- https://docs.aws.amazon.com/sns/latest/dg/sns-email-notifications.html
+
+= scheduled lambdas =
+- https://edwinradtke.com/eventtargets
+- https://docs.aws.amazon.com/lambda/latest/dg/tutorial-scheduled-events-schedule-expressions.html
+
+= sample cdk apps =
+- https://docs.aws.amazon.com/code-samples/latest/catalog/code-catalog-typescript-example_code-cdk.html
+
+= step functions =
+- https://docs.aws.amazon.com/step-functions/latest/dg/welcome.html
+
+mocking step fn for unit tests
+-https://medium.com/codex/creating-jest-unit-tests-for-aws-step-functions-4e4d619789b3
+
+other unit testing step functions
+- https://dev.to/aws-builders/testing-aws-step-functions-flows-2kpn
+- https://github.com/mickem/aws-stepfunction-test
+
+running step functions locally
+- https://www.npmjs.com/package/stepfunctions-local
+- https://github.com/localstack/localstack
+- https://aws.amazon.com/about-aws/whats-new/2019/02/develop-and-test-aws-step-functions-workflows-locally/
+
+e2e tests for step functions
+- https://notes.serverlessfirst.com/public/Testing+Step+Functions#:~:text=E2E%20test%20cases%20typically%20use,its%20output%20at%20each%20stage.
+- https://medium.com/theburningmonk-com/testing-strategies-for-step-functions-19cd087eae19
+- https://aws.amazon.com/blogs/devops/testing-and-creating-ci-cd-pipelines-for-aws-step-functions-using-aws-codepipeline-and-aws-codebuild/
+
+= cognito =
+- https://medium.com/@sumindaniro/user-authentication-and-authorization-with-aws-cognito-d204492dd1d0#:~:text=To%20allow%20AWS%20resource%20access,This%20is%20called%20federated%20authentication.
+- https://docs.aws.amazon.com/cdk/api/v2/docs/aws-cdk-lib.aws_cognito-readme.html
+- https://bobbyhadz.com/blog/aws-cdk-cognito-user-pool-example
+- https://bobbyhadz.com/blog/aws-cdk-cognito-identity-pool-example
+- https://bobbyhadz.com/blog/ses-cognito-user-pool-aws-cdk
+- https://medium.com/@sumindaniro/user-authentication-and-authorization-with-aws-cognito-d204492dd1d0
+- https://github.com/aws-samples/aws-cdk-examples/blob/master/typescript/cognito-api-lambda/index.ts
+- 
+== cognito apigatew constructs ==
+- https://constructs.dev/packages/@aws-solutions-constructs/aws-cognito-apigateway-lambda/v/2.11.0?lang=typescript
+
+== s3 file encrypted host files ==
+- https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html

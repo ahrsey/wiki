@@ -1,0 +1,8 @@
+User authentication, login service with emails, ability to update password and
+email notifications, user registration, verification, login etc
+
+https://medium.com/@sumindaniro/user-authentication-and-authorization-with-aws-cognito-d204492dd1d0
+
+
+= Notes =
+- RequestAuthorizer -> look into this

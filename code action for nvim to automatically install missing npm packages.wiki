@@ -1,0 +1,7 @@
+I currently can't use code actions to install npm packages automatically. Maybe
+something cool to build to learn how to make nvim plugins
+
+Not sure if this is possible, but I guess I would need to look into extending
+the language server currently running (TSServer I guess) and hook into the code
+actions call to recognise package paths, read them and find the package.json
+related to them and install it async

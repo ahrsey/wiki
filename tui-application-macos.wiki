@@ -1,0 +1,15 @@
+application launcher from terminal that supports launching any application in
+Applications
+
+should also allow `define` style dictionary look ups, maths and other easy
+bindings for easy launching of sub tasks. Like for example launching tmux in
+sub folder structures or automatically opening tmux session for work directory
+
+also will need a way to find a shortcut to open terminal by pressing command +
+space, spotlight style
+
+Was thinking to build this in golang
+
+Could use something like this
+- https://github.com/andybrewer/mack
+- https://github.com/charmbracelet/bubbletea

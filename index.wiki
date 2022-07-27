@@ -1,0 +1,403 @@
+= Wiki =
+- [[Programming]]
+- [[aws]]
+- [[apps-to-build]]
+- [[learning]]
+
+= Diary = --- Mon  6 Jun 2022 13:47:37 BST
+
+= things to investigate (aws) =
+
+- difference between regions and availability zones
+- auto scaling
+- geo targeting - cloudfront
+- study cloudformation
+- how to upgrade or downgrade serverless application with zero downtime (kind
+  of like blue green)
+- learn more about cost in aws - aws calculator, aws budgets, cost allocation
+  tags
+- centralized logging on aws - cloudwatch logs, kineses, s3, elestric search
+
+= AWS service to check =
+- https://aws.amazon.com/cloudtrail/
+
+= AWS certifcate =
+- https://tutorialsdojo.com/
+- https://learn.acloud.guru/course/aws-certified-developer-associate/overview
+- https://aws.amazon.com/certification/certified-developer-associate/
+
+= Learn more about VPC =
+- Not sure why someone would put only one lambda into a vpc
+
+= Investigate law of demeter =
+- https://en.wikipedia.org/wiki/Law_of_Demeter
+
+= Duck typing = Golang and pytong use ducktyping. Golang uses it for interfaces
+interesting concept
+- https://en.wikipedia.org/wiki/Duck_typing
+
+--- Tue  7 Jun 2022 12:25:46 BST
+
+Issues with docker desktop and licensing changes
+- https://github.com/aws/aws-sam-cli/issues/3595#issuecomment-1112870411
+
+Also checkout this docker alternative
+- https://github.com/abiosoft/colima
+
+Self mutating CDK pipeline
+-
+  https://dhirajkhodade.medium.com/self-mutating-cdk-pipeline-which-has-ability-to-update-the-very-infrastructure-that-it-runs-on-cd116e3240e3
+- https://www.youtube.com/watch?v=774leNpQXo0
+
+Some documnetion for dynamodb that isn't terrible
+-
+  https://github.com/awsdocs/aws-sdk-for-javascript-v3/blob/main/doc_source/dynamodb-example-dynamodb-utilities.md
+- https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Query.html
+
+AWS sdk v3 docs
+-
+  https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/clients/client-dynamodb/index.html
+
+--- Wed  8 Jun 2022 09:52:10 BST
+
+= Books =
+- https://b-ok.cc/s/interview?
+
+--- Thu  9 Jun 2022 11:34:36 BST
+
+Storing some info around step fns and triggering them from s3 events
+-
+  https://aws.plainenglish.io/trigger-lambda-on-s3-events-using-cdk-763e2a292113
+- https://dev.to/aws-builders/amazon-s3-to-aws-stepfunctions-pattern-4eog
+-
+  https://docs.aws.amazon.com/AmazonS3/latest/userguide/notification-how-to-filtering.html
+- https://docs.aws.amazon.com/lambda/latest/dg/with-s3-example.html
+-
+  https://docs.aws.amazon.com/solutions/latest/constructs/aws-s3-step-function.html
+-
+  https://docs.aws.amazon.com/step-functions/latest/dg/tutorial-cloudwatch-events-s3.html
+- https://github.com/WojciechMatuszewski/s3-to-sfn-pattern
+
+Better information about s3 events and step fn combination
+-
+  https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-s3-bucket-notificationconfig.html
+- https://docs.aws.amazon.com/step-functions/latest/dg/concepts-invoke-sfn.html
+-
+  https://www.10printiamcool.com/converting-an-aws-step-function-to-use-cdk-part-1
+
+
+--- Mon 13 Jun 2022 16:19:29 BST
+
+Simplified and community-driven man pages
+- https://tldr.sh/
+
+and other related urls
+- https://cht.sh/
+- https://github.com/cheat/cheat
+
+looping back to original task in cdk step functions
+-
+  https://stackoverflow.com/questions/63742310/cdk-step-functions-how-to-create-a-loop
+
+step functions condition construct
+-
+  https://docs.aws.amazon.com/cdk/api/v2/docs/aws-cdk-lib.aws_stepfunctions.Condition.html
+
+--- Tue 14 Jun 2022 22:44:33 BST
+
+Need to check this out, tRPC
+- https://trpc.io/ Apparently Theo has a some more infomation on why it's
+  useful
+
+Something else to checkout graphql
+- https://formidable.com/open-source/urql/
+
+VIM Fugitive
+- https://cheatography.com/jennings/cheat-sheets/vim-fugitive/
+
+Vim conflicted
+- https://github.com/christoomey/vim-conflicted Plugin to add more conflict
+  resolution tools in vim, might be worth doing some research on it
+
+Chalice This looks very interesting, I guess something like serverless expect
+built ontop of cdk
+- https://aws.github.io/chalice/index.html
+
+Dynamodb seeder
+- https://github.com/elegantdevelopment/aws-cdk-dynamodb-seeder This is
+  probably better than using a shell script because you can manage it in the
+  cdk code
+
+---- Wed 15 Jun 2022 09:30:31 BST
+
+Resources for learning CDK and improving
+- https://garbe.io/blog/2019/09/11/hey-cdk-how-to-migrate/
+- https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc
+- https://github.com/cdk-patterns/serverless/blob/main/EXTERNAL_PATTERNS.md
+
+
+--- Thu 16 Jun 2022 00:34:05 BST
+
+Make code screenshots
+- https://carbon.now.sh/
+
+Just another simple, fast, and resilient open-source WebSockets server. 📣
+https://github.com/soketi/soketi
+
+Database related things to look into
+- https://planetscale.com/
+- https://neon.tech/
+
+---
+Thu 16 Jun 2022 11:37:19 BST
+
+Look into using iffe for rendering
+```
+ff(value===‘something’, () => (<Component />))
+iff(.  value===‘something’, () => (<Component />), () => (<OtherComponent />)  )
+iff(value===‘something’, ‘true string’, ‘false string’ )
+```
+
+Look into using this for local development
+- https://www.npmjs.com/package/serverless-offline
+- https://www.serverless.com/ also this LUL
+
+
+---
+Fri 17 Jun 2022 16:27:49 BST
+
+Build optimized websites quickly, focus on your content
+- https://docusaurus.io/
+
+
+
+---
+Sat 18 Jun 2022 21:14:08 BST
+
+Should look into customising shift k to lookup word under file based on
+language. For example if I'm in js I could maybe do something where it looks up
+the fn on mdn or via a cheatsheet util
+
+Need to checkout native fzy
+This is all in order to speed up telescope
+- https://github.com/jhawthorn/fzy
+- https://github.com/romgrk/fzy-lua-native
+- https://github.com/nvim-telescope/telescope-fzy-native.nvim
+- https://www.reddit.com/r/neovim/comments/p2jser/speeding_up_telescope/
+
+Some snip and completion related things I want to try out considering the last
+ones I tried didn't work very well :sob:
+- https://github.com/hrsh7th/vim-vsnip
+- https://github.com/hrsh7th/nvim-cmp
+- https://github.com/albingroen/nvim-lsp-typescript-config
+- https://github.com/VonHeikemen/lsp-zero.nvim
+
+Vsnip related stuff :ponder: need to figure out how this works
+
+- https://github.com/hrsh7th/vim-vsnip 
+
+---
+Sun 19 Jun 2022 12:24:55 BST
+
+This looks like a super interesting thing to investigate. It looks like it
+supports a seperation between copy and move clipboard operations to allow us to
+more easily manage how we cut and paste text, should investigate
+- https://github.com/svermeulen/vim-easyclip
+
+
+---
+Mon 20 Jun 2022 18:27:58 BST
+
+
+Need to check these out, breakpoint debugging in vim should be pretty cool, but
+maybe won't work in aws serverless
+- https://github.com/rcarriga/nvim-dap-ui
+- https://github.com/mfussenegger/nvim-dap
+
+---
+Tue 21 Jun 2022 15:51:33 BST
+
+Look into type definitions and generating types
+- https://www.typescriptlang.org/docs/handbook/declaration-files/dts-from-js.html
+
+Some dotfiles that look pretty useful I think
+- https://github.com/martinsione/dotfiles/blob/master/src/.config/nvim/lua/modules/config/lsp/handlers.lua
+
+Nvim plugins that look cool, but I can't check them all out at once
+- https://github.com/lewis6991/gitsigns.nvim
+
+Should check out this dudes post, some useful stuff to level up my copy pasta
+dotfiles. This dude also has some cool stuff about serverless, my type of dude
+- https://alpha2phi.medium.com/
+
+The twelve-factor app
+Might be interesting to read about this
+- https://www.12factor.net/
+
+Better mono repos since lerna is the depricated 
+- https://nx.dev/getting-started/intro
+
+---
+Sat 25 Jun 2022 13:16:49 BST
+
+Gamification of typescript type learning, should really check this out
+- https://github.com/type-challenges/type-challenges
+
+Nvim lsp-zero easy nvim-lsp - Need to check this out and redo my lsp to see if
+it that'll resolve my linting issues
+- https://github.com/VonHeikemen/lsp-zero.nvim
+- https://github.com/williamboman/nvim-lsp-installer/
+
+📘️ Learn Go by fixing tiny incorrect programs
+- https://github.com/soypat/gopherlings
+
+---
+Sun 26 Jun 2022 21:22:10 BST
+
+Awesome GO Education
+Go learning resources
+- https://github.com/mehdihadeli/awesome-go-education/
+
+tslib
+TODO - check this out
+https://www.npmjs.com/package/tslib
+
+---
+Tue 28 Jun 2022 21:47:29 BST
+
+Architect is a simple framework for building and delivering powerful Functional Web Apps (FWAs) on AWS
+- https://arc.codes/docs/en/get-started/quickstart
+
+---
+Wed 29 Jun 2022 10:14:25 BST
+
+Copilot issues
+https://matthewbutterick.com/chron/this-copilot-is-stupid-and-wants-to-kill-me.html
+
+Need to do a deepdive on cherrypick
+- https://git-scm.com/docs/git-cherry-pick
+
+Check this out 'fuck'
+- https://github.com/nvbn/thefuck
+
+Some AWS type of cloud thingy to check out
+- https://www.flightcontrol.dev/ 
+
+
+---
+Thu 30 Jun 2022 08:19:50 BST
+
+Advanced motions plugin for vim
+- https://github.com/ggandor/leap.nvim
+
+Some other plugins that might be worth checking out for nvim
+- https://morioh.com/p/a7063de46490
+- https://github.com/RishabhRD/nvim-lsputils?ref=morioh.com&utm_source=morioh.com
+- https://github.com/weilbith/nvim-code-action-menu
+- https://github.com/anott03/nvim-lspinstall
+- https://github.com/alexaandru/nvim-lspupdate
+
+Git worktrees
+- https://www.youtube.com/watch?v=2uEqYw-N8uE
+- https://levelup.gitconnected.com/git-worktrees-the-best-git-feature-youve-never-heard-of-9cd21df67baf
+
+Plog code generation 
+- https://plopjs.com/
+- https://github.com/plopjs/plop
+
+AWS SDK mocks
+https://github.com/dwyl/aws-sdk-mock
+
+Blue green deployments on AWS
+- https://aws-quickstart.s3.amazonaws.com/quickstart-codepipeline-bluegreen-deployment/doc/blue-green-deployments-to-aws-elastic-beanstalk-on-the-aws-cloud.pdf
+
+TODO
+Look into polyfilling # with #N to stop vim from jumping to next occurance of
+highlight text under cursor
+
+---
+Sat  2 Jul 2022 20:34:23 BST
+
+more things to learn about golang
+- https://gobyexample.com/
+
+NX monorepo learning material
+- https://github.com/billyjov/awesome-nx
+
+---
+Sat  9 Jul 2022 10:24:33 BST
+
+Bun is a fast all-in-one JavaScript runtime
+- https://bun.sh/
+
+Monorepo - A tool to manage versioning and changelogs with a focus on
+multi-package repositories
+- https://github.com/changesets/changesets
+
+---
+Mon 11 Jul 2022 00:16:05 BST
+
+Awesome aws list
+- https://github.com/anaibol/awesome-serverless 
+- https://project-awesome.org/donnemartin/awesome-aws#api-gateway
+
+Need to look into tee 
+- https://www.google.com/search?q=man+tee&oq=man+tee&aqs=chrome..69i57.836j0j1&sourceid=chrome&ie=UTF-8
+- https://shapeshed.com/unix-tee/
+
+This could be useful - A way to force save with `w!!`
+- https://www.reddit.com/r/commandline/comments/vqzg5c/dont_you_hate_it_when_you_edit_a_txt_file_in_vi/
+
+WTF - the terminal dashboard
+- https://wtfutil.com/quick_start/
+- integrates with: datadog, git remotes for pr/mr etc, jira etc
+
+`join` command tool
+- https://shapeshed.com/unix-join/
+
+`comm` command line tool
+- https://linux.die.net/man/1/comm
+
+Transfer files over Wi-Fi from your computer to a mobile device by scanning a
+QR code without leaving the terminal.
+- https://github.com/claudiodangelis/qrcp
+
+Interesting uses of fzf and ripgrep. I should probably take some time to learn
+ripgrep better as well
+- https://sidneyliebrand.medium.com/how-fzf-and-ripgrep-improved-my-workflow-61c7ca212861
+
+Some ripgrep related jazz
+- https://mariusschulz.com/blog/fast-searching-with-ripgrep
+
+Other terminal apps to check out
+-` fc`
+-` batch`
+-` ionice / nice`
+-` cut / tr`
+-` tree`
+-` uniq`
+-` stty`
+- `dd`
+
+---
+Mon 11 Jul 2022 10:40:19 BST
+
+= commitizen =
+Its main purpose is to define a standard way of committing rules and communicating it (using the cli provided by commitizen).
+- https://commitizen-tools.github.io/commitizen/
+- https://www.adaltas.com/en/2021/02/02/js-monorepos-commits-changelog/
+
+---
+Fri 22 Jul 2022 13:17:09 BST
+
+dazn-lambda-powertools is a collection of middlewares, AWS clients and helper libraries that make working with lambda easier.
+- https://github.com/getndazn/dazn-lambda-powertools
+
+AWS Lambda Powertools for TypeScript provides a suite of utilities for AWS Lambda functions running on the Node.js runtime, to ease the adoption of best practices such as tracing, structured logging, custom metrics, and more.
+- https://awslabs.github.io/aws-lambda-powertools-typescript/latest/
+
+---
+Mon 25 Jul 2022 21:34:37 BST
+
+Community of passionate AWS builders.
+- https://awstip.com/
