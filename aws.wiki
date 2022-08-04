@@ -45,6 +45,14 @@ e2e tests for step functions
 - https://notes.serverlessfirst.com/public/Testing+Step+Functions#:~:text=E2E%20test%20cases%20typically%20use,its%20output%20at%20each%20stage.
 - https://medium.com/theburningmonk-com/testing-strategies-for-step-functions-19cd087eae19
 - https://aws.amazon.com/blogs/devops/testing-and-creating-ci-cd-pipelines-for-aws-step-functions-using-aws-codepipeline-and-aws-codebuild/
+- https://aws.amazon.com/blogs/compute/mocking-service-integrations-with-aws-step-functions-local/
+
+Testing Step Functions State Machines Locally
+- https://docs.aws.amazon.com/step-functions/latest/dg/sfn-local.html
+- https://docs.aws.amazon.com/step-functions/latest/dg/sfn-local-config-options.html
+
+= State machines in the Wild! Talk =
+https://www.youtube.com/watch?v=sMaqd5J69Ns&t=1373s
 
 = cognito =
 - https://medium.com/@sumindaniro/user-authentication-and-authorization-with-aws-cognito-d204492dd1d0#:~:text=To%20allow%20AWS%20resource%20access,This%20is%20called%20federated%20authentication.

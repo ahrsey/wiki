@@ -1,1 +1,4 @@
-[[nx monorepo]]
+- [[nx monorepo]]
+- [[typescript]]
+- [[docblocks]]
+

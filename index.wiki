@@ -265,7 +265,8 @@ https://www.npmjs.com/package/tslib
 ---
 Tue 28 Jun 2022 21:47:29 BST
 
-Architect is a simple framework for building and delivering powerful Functional Web Apps (FWAs) on AWS
+Architect is a simple framework for building and delivering powerful Functional
+Web Apps (FWAs) on AWS
 - https://arc.codes/docs/en/get-started/quickstart
 
 ---
@@ -383,17 +384,21 @@ Other terminal apps to check out
 Mon 11 Jul 2022 10:40:19 BST
 
 = commitizen =
-Its main purpose is to define a standard way of committing rules and communicating it (using the cli provided by commitizen).
+Its main purpose is to define a standard way of committing rules and
+communicating it (using the cli provided by commitizen).
 - https://commitizen-tools.github.io/commitizen/
 - https://www.adaltas.com/en/2021/02/02/js-monorepos-commits-changelog/
 
 ---
 Fri 22 Jul 2022 13:17:09 BST
 
-dazn-lambda-powertools is a collection of middlewares, AWS clients and helper libraries that make working with lambda easier.
+dazn-lambda-powertools is a collection of middlewares, AWS clients and helper
+libraries that make working with lambda easier.
 - https://github.com/getndazn/dazn-lambda-powertools
 
-AWS Lambda Powertools for TypeScript provides a suite of utilities for AWS Lambda functions running on the Node.js runtime, to ease the adoption of best practices such as tracing, structured logging, custom metrics, and more.
+AWS Lambda Powertools for TypeScript provides a suite of utilities for AWS
+Lambda functions running on the Node.js runtime, to ease the adoption of best
+practices such as tracing, structured logging, custom metrics, and more.
 - https://awslabs.github.io/aws-lambda-powertools-typescript/latest/
 
 ---
@@ -401,3 +406,28 @@ Mon 25 Jul 2022 21:34:37 BST
 
 Community of passionate AWS builders.
 - https://awstip.com/
+
+---
+Thu 28 Jul 2022 07:34:43 BST
+
+Look into workspaces for my sandbox monorepo project
+- https://docs.npmjs.com/cli/v7/using-npm/workspaces
+
+
+---
+Thu 28 Jul 2022 16:22:51 BST
+
+= sam local generate-event =
+- https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/sam-cli-command-reference-sam-local-generate-event.html
+
+---
+Fri 29 Jul 2022 08:49:44 BST
+
+How to strongly type try/catch blocks in TypeScript
+- https://medium.com/geekculture/how-to-strongly-type-try-catch-blocks-in-typescript-4681aff406b9
+
+---
+Wed  3 Aug 2022 22:28:54 BST
+
+Firefox port, maybe worth checking out
+https://librewolf.net/

@@ -1,0 +1,4 @@
+- https://www.typescriptlang.org/docs/handbook/jsdoc-supported-types.html
+- https://jsdoc.app/
+- https://en.wikipedia.org/wiki/Docblock
+- https://tsdoc.org/
