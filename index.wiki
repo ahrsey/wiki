@@ -431,3 +431,13 @@ Wed  3 Aug 2022 22:28:54 BST
 
 Firefox port, maybe worth checking out
 https://librewolf.net/
+
+---
+Tue  9 Aug 2022 09:54:08 BST
+
+Run Third-Party Scripts From A Web Worker
+- https://partytown.builder.io/
+
+Write components once, run everywhere. Compiles to:
+- https://github.com/builderio/mitosis
+
