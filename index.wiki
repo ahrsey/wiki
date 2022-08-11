@@ -441,3 +441,9 @@ Run Third-Party Scripts From A Web Worker
 Write components once, run everywhere. Compiles to:
 - https://github.com/builderio/mitosis
 
+
+---
+Thu 11 Aug 2022 10:20:33 BST
+
+improve how you architect webapps
+- https://www.patterns.dev/
