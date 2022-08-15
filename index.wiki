@@ -447,3 +447,16 @@ Thu 11 Aug 2022 10:20:33 BST
 
 improve how you architect webapps
 - https://www.patterns.dev/
+
+---
+Mon 15 Aug 2022 10:52:44 BST
+
+All algorithms implemented in Python - for education
+- https://github.com/TheAlgorithms/Python
+
+Some dotfiles to checkout
+- https://github.com/craftzdog/dotfiles-public
+
+Computer science - Open Source Society University
+- https://github.com/ossu/computer-science
+
