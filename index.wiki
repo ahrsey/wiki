@@ -460,3 +460,22 @@ Some dotfiles to checkout
 Computer science - Open Source Society University
 - https://github.com/ossu/computer-science
 
+Search and replace in multiple files with vim
+- https://askubuntu.com/questions/589647/search-and-replace-from-terminal-but-with-confirmation 
+
+Ripgrep (rg) cheatsheet
+- https://jdhao.github.io/2020/02/16/ripgrep_cheat_sheet/
+
+---
+Wed 17 Aug 2022 10:51:18 BST
+
+Read this book
+- "Functional Programming in JavaScript" by Cristian Salcesccu.
+
+Checkov is a static code analysis tool for infrastructure as code
+- https://github.com/bridgecrewio/checkov
+
+---
+Thu 18 Aug 2022 14:41:41 BST
+
+
