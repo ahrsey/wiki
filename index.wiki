@@ -501,3 +501,9 @@ The Open Guide to Amazon Web Services
 
 Free programming books
 - https://github.com/EbookFoundation/free-programming-books
+
+Check this out
+- https://codeberg.org/
+
+LibreWolf firefox fork
+- https://librewolf.net/
