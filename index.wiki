@@ -478,4 +478,26 @@ Checkov is a static code analysis tool for infrastructure as code
 ---
 Thu 18 Aug 2022 14:41:41 BST
 
+System Design Course
+- https://github.com/karanpratapsingh/system-design
 
+Tech Interview Handbook
+- https://github.com/yangshun/tech-interview-handbook
+
+Clean code javascript
+- https://github.com/ryanmcdermott/clean-code-javascript
+
+Awesome python
+- https://github.com/vinta/awesome-python
+
+You Don't Know JS Yet (book series) - 2nd Edition
+- https://github.com/getify/You-Dont-Know-JS
+
+Supabase is an open source Firebase alternative.
+- https://github.com/supabase/supabase
+
+The Open Guide to Amazon Web Services
+- https://github.com/open-guides/og-aws
+
+Free programming books
+- https://github.com/EbookFoundation/free-programming-books
