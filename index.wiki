@@ -507,3 +507,9 @@ Check this out
 
 LibreWolf firefox fork
 - https://librewolf.net/
+
+---
+Sat 20 Aug 2022 11:11:37 BST
+
+Thinkpad buyers guide, for my next linux laptop
+- https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide
