@@ -513,3 +513,36 @@ Sat 20 Aug 2022 11:11:37 BST
 
 Thinkpad buyers guide, for my next linux laptop
 - https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide
+
+---
+Mon 22 Aug 2022 11:53:19 BST
+
+This repository is a compilation of well-written, step-by-step guides for
+re-creating our favorite technologies from scratch. 
+
+learning, tutorials
+
+- https://github.com/codecrafters-io/build-your-own-x
+
+Might be cool to look into how to do the programmatic ones on here for
+increasing lambda execution speed/performance
+- https://www.webiny.com/blog/5-tips-to-make-your-lambda-functions-run-faster-and-cheaper
+
+Pygame build game
+- https://www.pygame.org/news
+
+TMUX related info cheatsheet, tutorials etc
+- https://github.com/rothgar/awesome-tmux
+- https://thoughtbot.com/blog/a-tmux-crash-course
+- https://www.dbi-services.com/blog/using-tmux-for-semi-interactive-demos/
+
+Some TMUX plugins to checkout
+- https://github.com/laktak/extrakto
+- https://github.com/roosta/tmux-fuzzback
+- https://github.com/wfxr/tmux-fzf-url
+- https://github.com/tmux-plugins/tmux-continuum
+- https://github.com/tmux-plugins/tmux-fpp
+- https://github.com/tmux-plugins/tmux-resurrect
+
+Facebook path picker
+- https://facebook.github.io/PathPicker/
