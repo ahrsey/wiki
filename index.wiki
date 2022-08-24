@@ -1,3 +1,5 @@
+- [[todo]]
+
 = Wiki =
 - [[Programming]]
 - [[aws]]
@@ -546,3 +548,65 @@ Some TMUX plugins to checkout
 
 Facebook path picker
 - https://facebook.github.io/PathPicker/
+
+Computer Science Curriculum 
+- https://github.com/bootdotdev/curriculum
+
+Keyconfig allows you to change keyboard shortcuts in firefox
+- http://forums.mozillazine.org/viewtopic.php?t=72994
+
+---
+Tue 23 Aug 2022 09:10:49 BST
+
+Some cool reddit awesome lists
+Learn anything subreddits
+- https://github.com/learn-anything/reddit
+- https://github.com/iCHAIT/awesome-subreddits
+
+Explore more indepth error handling, this is specifically for rust, but maybe I
+could learn some other things too
+- https://izzys.casa/2022/01/outcomes-mistakes-and-nuance/
+
+Recommended firefox addons
+- https://www.reddit.com/r/firefox/wiki/recommended-add-ons/
+
+Computer Science courses with video lectures
+- https://github.com/Developer-Y/cs-video-courses
+
+List of public apis
+- https://github.com/public-apis/public-apis
+
+Python  practice sites
+- https://exercism.org/tracks/python/exercises
+- https://www.hackinscience.org/exercises/
+- https://www.practicepython.org/
+- https://adventofcode.com/
+- https://www.codewars.com/
+- https://www.pythonmorsels.com/
+- https://py.checkio.org/
+- https://www.codingame.com/start
+- https://codecombat.com/
+- https://github.com/karan/Projects-Solutions
+- https://github.com/practical-tutorials/project-based-learning#python
+- https://inventwithpython.com/bigbookpython/
+- https://www.manning.com/books/tiny-python-projects
+- https://practicalpython.yasoob.me/toc.html
+
+This repo links to solutions of Projects written by other users in any language.
+- https://github.com/karan/Projects-Solutions
+
+Project Based Learning
+A list of programming tutorials in which aspiring software developers learn how to build an application from scratch.
+https://github.com/practical-tutorials/project-based-learning#python
+
+Python books
+- https://inventwithpython.com/bigbookpython/
+- https://www.manning.com/books/tiny-python-projects
+- https://practicalpython.yasoob.me/toc.html
+- https://old.reddit.com/r/learnpython/comments/k5k1h0/what_do_you_automate_with_python_at_home/
+
+---
+Wed 24 Aug 2022 12:13:27 BST
+
+Sample gITF Models webgl for loading in threejs
+https://github.com/KhronosGroup/glTF-Sample-Models

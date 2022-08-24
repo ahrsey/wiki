@@ -29,6 +29,14 @@ Possibly helpful CDK related guides
 = step functions =
 - https://docs.aws.amazon.com/step-functions/latest/dg/welcome.html
 
+== dynamic parallelisastion in step functions, basically step functions inside ==
+step functions
+- https://aws.amazon.com/blogs/aws/new-step-functions-support-for-dynamic-parallelism/
+- https://medium.com/nerd-for-tech/dynamic-parallelism-in-aws-step-functions-530f434dd933
+- https://aws.amazon.com/about-aws/whats-new/2019/08/aws-step-function-adds-support-for-nested-workflows/
+- https://docs.aws.amazon.com/step-functions/latest/dg/amazon-states-language-parallel-state.html
+- https://www.youtube.com/watch?v=we1ofz9BJcg
+
 mocking step fn for unit tests
 -https://medium.com/codex/creating-jest-unit-tests-for-aws-step-functions-4e4d619789b3
 
