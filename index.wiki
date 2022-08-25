@@ -610,3 +610,13 @@ Wed 24 Aug 2022 12:13:27 BST
 
 Sample gITF Models webgl for loading in threejs
 https://github.com/KhronosGroup/glTF-Sample-Models
+
+---
+Thu 25 Aug 2022 11:49:52 BST
+
+https://en.wikibooks.org/wiki/Bash_Shell_Scripting/Whiptail
+
+Ash's dotfiles to checkout
+- https://gitlab.com/emaxx-dotfiles/dots
+- https://gitlab.com/emaxx-dotfiles/laptop-setup
+
