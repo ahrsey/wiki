@@ -7,3 +7,4 @@ I can build integrations for jira and pr's etc
 
 This could also be used to monitor wifi and other things like that and music
 and other things I don't want ot use from the gui
+

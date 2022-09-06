@@ -620,3 +620,15 @@ Ash's dotfiles to checkout
 - https://gitlab.com/emaxx-dotfiles/dots
 - https://gitlab.com/emaxx-dotfiles/laptop-setup
 
+
+---
+Tue  6 Sep 2022 09:00:50 BST
+
+A list of the most github stars and forks repositories.
+- https://github.com/EvanLi/Github-Ranking
+
+How We Built A Scalable Platform Using Flask
+- https://old.reddit.com/r/flask/comments/x6hh74/how_we_built_a_scalable_platform_using_flask/
+
+Serverless Messaging: Latency Compared
+- https://bitesizedserverless.com/bite/serverless-messaging-latency-compared/?utm_source=linkedin&utm_medium=social
