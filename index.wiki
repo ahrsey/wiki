@@ -65,27 +65,22 @@ AWS sdk v3 docs
 = Books =
 - https://b-ok.cc/s/interview?
 
---- Thu  9 Jun 2022 11:34:36 BST
+--- 
+Thu  9 Jun 2022 11:34:36 BST
 
 Storing some info around step fns and triggering them from s3 events
--
-  https://aws.plainenglish.io/trigger-lambda-on-s3-events-using-cdk-763e2a292113
+- https://aws.plainenglish.io/trigger-lambda-on-s3-events-using-cdk-763e2a292113
 - https://dev.to/aws-builders/amazon-s3-to-aws-stepfunctions-pattern-4eog
--
-  https://docs.aws.amazon.com/AmazonS3/latest/userguide/notification-how-to-filtering.html
+- https://docs.aws.amazon.com/AmazonS3/latest/userguide/notification-how-to-filtering.html
 - https://docs.aws.amazon.com/lambda/latest/dg/with-s3-example.html
--
-  https://docs.aws.amazon.com/solutions/latest/constructs/aws-s3-step-function.html
--
-  https://docs.aws.amazon.com/step-functions/latest/dg/tutorial-cloudwatch-events-s3.html
+- https://docs.aws.amazon.com/solutions/latest/constructs/aws-s3-step-function.html
+- https://docs.aws.amazon.com/step-functions/latest/dg/tutorial-cloudwatch-events-s3.html
 - https://github.com/WojciechMatuszewski/s3-to-sfn-pattern
 
 Better information about s3 events and step fn combination
--
-  https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-s3-bucket-notificationconfig.html
+- https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-s3-bucket-notificationconfig.html
 - https://docs.aws.amazon.com/step-functions/latest/dg/concepts-invoke-sfn.html
--
-  https://www.10printiamcool.com/converting-an-aws-step-function-to-use-cdk-part-1
+- https://www.10printiamcool.com/converting-an-aws-step-function-to-use-cdk-part-1
 
 
 --- Mon 13 Jun 2022 16:19:29 BST
@@ -98,12 +93,10 @@ and other related urls
 - https://github.com/cheat/cheat
 
 looping back to original task in cdk step functions
--
-  https://stackoverflow.com/questions/63742310/cdk-step-functions-how-to-create-a-loop
+- https://stackoverflow.com/questions/63742310/cdk-step-functions-how-to-create-a-loop
 
 step functions condition construct
--
-  https://docs.aws.amazon.com/cdk/api/v2/docs/aws-cdk-lib.aws_stepfunctions.Condition.html
+- https://docs.aws.amazon.com/cdk/api/v2/docs/aws-cdk-lib.aws_stepfunctions.Condition.html
 
 --- Tue 14 Jun 2022 22:44:33 BST
 
@@ -632,3 +625,12 @@ How We Built A Scalable Platform Using Flask
 
 Serverless Messaging: Latency Compared
 - https://bitesizedserverless.com/bite/serverless-messaging-latency-compared/?utm_source=linkedin&utm_medium=social
+
+Top five data integration patterns
+- https://www.mulesoft.com/resources/esb/top-five-data-integration-patterns
+
+---
+Wed  7 Sep 2022 07:53:05 BST
+
+Privacy Tools: Software Alternatives and Encryption
+- https://www.privacytools.io/
