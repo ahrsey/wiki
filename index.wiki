@@ -634,3 +634,9 @@ Wed  7 Sep 2022 07:53:05 BST
 
 Privacy Tools: Software Alternatives and Encryption
 - https://www.privacytools.io/
+
+---
+Fri  9 Sep 2022 10:16:30 BST
+
+Linux modules tutorials on tryhackme
+https://tryhackme.com/room/linuxmodules
