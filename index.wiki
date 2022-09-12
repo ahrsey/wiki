@@ -640,3 +640,15 @@ Fri  9 Sep 2022 10:16:30 BST
 
 Linux modules tutorials on tryhackme
 https://tryhackme.com/room/linuxmodules
+
+---
+Sat 10 Sep 2022 18:40:32 BST
+
+Podman is a daemonless container engine for developing, managing, and running OCI Containers on your Linux System.
+- https://podman.io/
+
+---
+Sun 11 Sep 2022 10:20:27 BST
+
+Delete all lines containing a pattern, and the `:g` had no idea :mindblown:
+- https://vim.fandom.com/wiki/Delete_all_lines_containing_a_pattern
