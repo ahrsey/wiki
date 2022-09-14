@@ -652,3 +652,28 @@ Sun 11 Sep 2022 10:20:27 BST
 
 Delete all lines containing a pattern, and the `:g` had no idea :mindblown:
 - https://vim.fandom.com/wiki/Delete_all_lines_containing_a_pattern
+
+--
+Wed 14 Sep 2022 09:09:01 BST
+
+Ebook registry
+- https://z-lib.org/
+
+Book summaries
+- https://www.blinkist.com/
+
+Open Source realtime backend in, go golang
+- https://github.com/pocketbase/pocketbase
+
+Over 100 implementations of same app in different languages
+- https://github.com/gothinkster/realworld
+- https://codebase.show/projects/realworld
+
+Coding interview resources
+- https://github.com/jwasham/coding-interview-university
+
+Algorithms in python
+- https://github.com/TheAlgorithms/Python
+
+Investigate :g :global a bit more, super powerful
+- https://vim.fandom.com/wiki/Power_of_g
