@@ -677,3 +677,13 @@ Algorithms in python
 
 Investigate :g :global a bit more, super powerful
 - https://vim.fandom.com/wiki/Power_of_g
+
+---
+Tue 20 Sep 2022 17:05:44 BST
+
+Lambda powertools
+- https://github.com/alexcasalboni/aws-lambda-power-tuning 
+
+AWS certificate exams
+- https://tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/
+
