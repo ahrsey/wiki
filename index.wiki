@@ -613,7 +613,6 @@ Ash's dotfiles to checkout
 - https://gitlab.com/emaxx-dotfiles/dots
 - https://gitlab.com/emaxx-dotfiles/laptop-setup
 
-
 ---
 Tue  6 Sep 2022 09:00:50 BST
 
@@ -703,3 +702,12 @@ a TUI playground for exploring jq. cli
 
 Top deep-dives on Algorithms
 - https://abyteofcoding.com/blog/articles-on-algorithms/
+
+---
+Thu 22 Sep 2022 09:49:06 BST
+
+Framework reimagined for the edge. frontend
+- https://qwik.builder.io/
+
+Regex Cross­word
+- https://regexcrossword.com/

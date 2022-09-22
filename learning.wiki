@@ -2,3 +2,4 @@
 - [[typescript]]
 - [[docblocks]]
 
+Would be good to figure out how to debug memory leaks in aws applications
