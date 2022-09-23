@@ -76,3 +76,9 @@ https://www.youtube.com/watch?v=sMaqd5J69Ns&t=1373s
 
 == s3 file encrypted host files ==
 - https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html
+
+== serverless s3 streaming example ==
+https://github.com/drmikecrowe/serverless-s3-streaming-example/blob/master/src/lib/FileHandler.ts
+
+Understanding Container Reuse in AWS Lambda
+- https://aws.amazon.com/blogs/compute/container-reuse-in-lambda/

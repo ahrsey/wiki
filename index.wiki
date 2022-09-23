@@ -711,3 +711,20 @@ Framework reimagined for the edge. frontend
 
 Regex Cross­word
 - https://regexcrossword.com/
+
+---
+Fri 23 Sep 2022 14:01:40 BST
+
+Diagnosing memory related issues in node
+- https://morioh.com/p/739d5995cc6b
+- https://blog.appsignal.com/2021/12/08/nodejs-memory-limits-what-you-should-know.html
+
+Web Applications in Production using Flask, Gunicorn WSGI and Nginx
+- https://writersbyte.com/featured-post/web-apps-with-flask-gunicorn-nginx/
+
+Dockerizing your Go application
+- https://blog.logrocket.com/dockerizing-go-application/
+
+Code generation
+- https://plopjs.com/documentation/
+
