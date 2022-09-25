@@ -728,3 +728,21 @@ Dockerizing your Go application
 Code generation
 - https://plopjs.com/documentation/
 
+---
+Sun 25 Sep 2022 13:51:44 BST
+
+dynamodb guide
+- https://www.dynamodbguide.com/what-is-dynamo-db
+
+nosql workbench for dynamodb
+- https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/workbench.html
+
+Algorithms FEM talk - front end masters
+- https://frontendmasters.com/courses/algorithms/
+
+
+---
+Sun 25 Sep 2022 17:50:22 BST
+
+Blog to check out
+- https://beabetterdev.com/
