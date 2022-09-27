@@ -1,7 +1,9 @@
-https://www.youtube.com/watch?v=uL9oOZStezw
+https://www.youtube.com/watch?v=uL9oOZStezw - still watching
+
 https://www.youtube.com/watch?v=jzeKPKpucS0
 https://www.youtube.com/watch?v=6yqfmXiZTlM
 https://www.youtube.com/watch?v=HaEPXoXVf2k
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/best-practices.html
 https://www.swyx.io/dynamodb-book
 https://beabetterdev.com/2022/03/26/the-dynamodb-book-by-alex-debrie-review/
+

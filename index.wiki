@@ -746,3 +746,41 @@ Sun 25 Sep 2022 17:50:22 BST
 
 Blog to check out
 - https://beabetterdev.com/
+
+Serverless application patterns
+- https://serverlessland.com/
+
+Vimwiki Command-Line Interface
+- https://pypi.org/project/vimwiki-cli/
+
+Blog with some stuff about VIM
+- https://freshman.tech/vim-quickfix-and-location-list/
+
+Look into getting this working 
+jest in vim quickfix
+- https://www.dev-log.me/Running_tests_with_vim-test/
+
+---
+Mon 26 Sep 2022 10:51:17 BST
+
+Vimspector - A multi language graphical debugger for VIM
+- https://dev.to/iggredible/debugging-in-vim-with-vimspector-4n0m
+- https://github.com/puremourning/vimspector
+
+Merging without FF
+- https://stackoverflow.com/questions/9069061/what-effect-does-the-no-ff-flag-have-for-git-merge
+- https://nvie.com/posts/a-successful-git-branching-model/
+- https://docs.gitlab.com/ee/user/project/merge_requests/methods/#merge-commit-with-semi-linear-history
+
+Setting up project specific vimrc files to work with vim-test so I can specify
+which jest config to use per project
+- https://andrew.stwrt.ca/posts/project-specific-vimrc/
+
+Vim resources
+- https://blog.joren.ga/vim-learning-steps
+
+---
+Tue 27 Sep 2022 08:58:30 BST
+
+Idiomatic python code
+- https://bas.codes/posts/idiomatic-python-code
