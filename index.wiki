@@ -5,6 +5,7 @@
 - [[aws]]
 - [[apps-to-build]]
 - [[learning]]
+- [[ideas]]
 
 = Diary = --- Mon  6 Jun 2022 13:47:37 BST
 
@@ -784,3 +785,8 @@ Tue 27 Sep 2022 08:58:30 BST
 
 Idiomatic python code
 - https://bas.codes/posts/idiomatic-python-code
+
+AWS CLI cheatsheet
+- https://www.bluematador.com/learn/aws-cli-cheatsheet
+- https://www.zuar.com/blog/amazon-dynamodb-cheat-sheet/
+
