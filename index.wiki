@@ -790,3 +790,14 @@ AWS CLI cheatsheet
 - https://www.bluematador.com/learn/aws-cli-cheatsheet
 - https://www.zuar.com/blog/amazon-dynamodb-cheat-sheet/
 
+AWS Practice exams
+- https://digitalcloud.training/practice-exams/
+- https://geekflare.com/aws-practice-test/
+- https://portal.tutorialsdojo.com/shop/
+- https://portal.tutorialsdojo.com/courses/aws-certified-developer-associate-practice-exams/
+
+---
+Thu 29 Sep 2022 09:24:56 BST
+
+Awesome dynamodb list
+- https://github.com/alexdebrie/awesome-dynamodb

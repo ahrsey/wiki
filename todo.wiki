@@ -7,3 +7,4 @@ https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/best-practices.
 https://www.swyx.io/dynamodb-book
 https://beabetterdev.com/2022/03/26/the-dynamodb-book-by-alex-debrie-review/
 
+https://www.youtube.com/watch?v=ly86Wq_E18o
