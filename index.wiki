@@ -603,7 +603,11 @@ Python books
 Wed 24 Aug 2022 12:13:27 BST
 
 Sample gITF Models webgl for loading in threejs
-https://github.com/KhronosGroup/glTF-Sample-Models
+- https://github.com/KhronosGroup/glTF-Sample-Models
+
+Turbosquid
+3d models site
+- https://www.turbosquid.com/
 
 ---
 Thu 25 Aug 2022 11:49:52 BST
@@ -845,3 +849,14 @@ Check out these bash boilerplates
 - https://github.com/xwmx/bash-boilerplate
 - https://betterdev.blog/minimal-safe-bash-script-template/
 - https://bash3boilerplate.sh/
+
+---
+Tue  4 Oct 2022 09:25:01 BST
+
+Serverless Applications Lens - AWS Well-Architected Framework
+- https://docs.aws.amazon.com/wellarchitected/latest/serverless-applications-lens/welcome.html
+- https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc&wa-guidance-whitepapers.sort-by=item.additionalFields.sortDate&wa-guidance-whitepapers.sort-order=desc
+
+
+Dall-e
+- https://openai.com/blog/dall-e/
