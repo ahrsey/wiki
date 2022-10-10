@@ -857,6 +857,13 @@ Serverless Applications Lens - AWS Well-Architected Framework
 - https://docs.aws.amazon.com/wellarchitected/latest/serverless-applications-lens/welcome.html
 - https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc&wa-guidance-whitepapers.sort-by=item.additionalFields.sortDate&wa-guidance-whitepapers.sort-order=desc
 
-
 Dall-e
 - https://openai.com/blog/dall-e/
+
+---
+Mon 10 Oct 2022 14:32:11 BST
+
+https://aws.amazon.com/blogs/developer/handling-errors-retries-and-adding-alerting-to-step-function-state-machine-executions/
+
+A Huge Number of Go Examples, Exercises and Quizzes
+- https://github.com/inancgumus/learngo
