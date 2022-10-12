@@ -867,3 +867,12 @@ https://aws.amazon.com/blogs/developer/handling-errors-retries-and-adding-alerti
 
 A Huge Number of Go Examples, Exercises and Quizzes
 - https://github.com/inancgumus/learngo
+
+---
+Wed 12 Oct 2022 11:21:08 BST
+
+The Definitive Guide to Graph Problems - python
+- https://www.giulianopertile.com/blog/the-definitive-guide-to-graph-problems/
+
+Ultimate Flask Tutorial - python flask
+- https://www.docdroid.net/0GOZUFr/ultimate-flask-tutorial-2022-reddit-pdf
