@@ -10,3 +10,4 @@
 - [[event driven architecture patterns]]
 - [[idenpotent api]]
 - [[notification system]]
+- [[boilerplate generator app]]

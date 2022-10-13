@@ -876,3 +876,13 @@ The Definitive Guide to Graph Problems - python
 
 Ultimate Flask Tutorial - python flask
 - https://www.docdroid.net/0GOZUFr/ultimate-flask-tutorial-2022-reddit-pdf
+
+MAKEFILE TUTOR (GNU) 
+- https://github.com/clemedon/Makefile_tutor
+
+Advanced patterns workshop
+- https://github.com/total-typescript/advanced-patterns-workshop
+
+Satori: Library to convert HTML and CSS to SVG.
+- https://github.com/vercel/satori
+- https://vercel.com/docs/concepts/functions/edge-functions/og-image-generation
