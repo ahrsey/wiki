@@ -1,0 +1,3 @@
+  - [X] https://izzys.casa/2022/01/outcomes-mistakes-and-nuance/
+  - [X] https://fullstackdev.cloud/posts/using-pre-request-scripts-in-postman-to-avoid-dangerous-api-calls
+  - [X] https://medium.com/wix-engineering/6-event-driven-architecture-patterns-part-1-93758b253f47

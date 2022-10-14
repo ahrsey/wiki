@@ -886,3 +886,9 @@ Advanced patterns workshop
 Satori: Library to convert HTML and CSS to SVG.
 - https://github.com/vercel/satori
 - https://vercel.com/docs/concepts/functions/edge-functions/og-image-generation
+
+---
+Fri 14 Oct 2022 10:45:28 BST
+
+https://joyofcode.xyz/sveltekit-with-tailwind-css
+https://joyofcode.xyz/

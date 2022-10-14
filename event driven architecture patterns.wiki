@@ -1,0 +1,16 @@
+Some patterns to test as part of this article
+- https://medium.com/wix-engineering/6-event-driven-architecture-patterns-part-1-93758b253f47
+- https://medium.com/wix-engineering/6-event-driven-architecture-patterns-part-2-455cc73b22e1
+- https://medium.com/wix-engineering/4-microservices-caching-patterns-at-wix-b4dfee1ae22f
+
+1. Consume and Project
+2. Event-driven from end to end
+3. In memory KV store
+4. Schedule and Forget
+5. Events in Transactions
+6. Events Aggregation
+7. Locally Persisted (or S3 backed) Configuration Data Cache
+8. Kafka topic based 0-latency Cache
+9. (Dynamo)DB+CDC based Cache
+10. HTTP Reverse Proxy Caching (Varnish cache)
+

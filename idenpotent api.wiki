@@ -1,0 +1,15 @@
+Build an http service for automatically creating idempotent requests using
+hashes. It would also be good if there was a time stamp that we could use for
+an acceptable range of time to wait before making another call with the same
+data and url
+
+Some things to read about how unique crytographic hashes are
+- https://stackoverflow.com/questions/3060259/do-cryptographic-hashes-provide-really-unique-results
+- https://crypto.stackexchange.com/questions/63339/how-do-hashes-really-ensure-uniqueness
+- https://en.wikipedia.org/wiki/Cryptographic_hash_function
+- https://crypto.stackexchange.com/questions/58214/how-can-hashes-be-unique-if-they-are-limited-in-number
+
+Also would be good to look into other options for idempotent implementaions.
+- etags?
+- endpoint for returning unique key?
+- and research other solutions

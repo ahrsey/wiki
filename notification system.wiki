@@ -1,0 +1,44 @@
+= Notification system concept =
+
+%% Going to build this in golang and the idea is just to integrate with things I
+%% use at work and display notifications from things like MR's in gitlab, jira
+%% updates on tickets assigned to me and things like that.
+
+Notification aggregator
+
+Take some endpoint/api (and maybe a tiny amount of config/boilerplate code, leaning
+towards config atm), and then grab notifications for that and display them as a
+tui app.
+
+Decided to build this in rust rather, just for fun.
+
+- Api integrations jira, gitlab, (slack? email?)
+- Setup a way to include more integrations easily
+- Notification formatting options
+- Display/layout options
+
+- https://blog.logrocket.com/rust-and-tui-building-a-command-line-interface-in-rust/
+- https://doc.rust-lang.org/stable/book/
+- https://www.rust-lang.org/learn
+
+Going to do a retake on this one actually, instead let's try and do this in
+node and distrube on npm, with typescript. But only use standard libs as far as
+I can.
+
+= Potential app structure =
+
+- Notification
+  TUI view command, send updates to this to be displayed, something like that
+  To display -> `There is a notification here and here's the link`
+
+- Commands
+  CRUD and other generic commands to use on different apis, fetch updates on
+  mr/pr, fetch comments on story tickets related to current user, fetch
+  emails with certain filters, fetch slack DM's
+
+- Integration
+  Different api's to be used by commands
+
+- Config
+  JSON for setup of api authentication requirements and which notifications to
+  query etc 
