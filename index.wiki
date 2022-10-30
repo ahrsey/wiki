@@ -892,3 +892,6 @@ Fri 14 Oct 2022 10:45:28 BST
 
 https://joyofcode.xyz/sveltekit-with-tailwind-css
 https://joyofcode.xyz/
+
+
+https://www.barbarianmeetscoding.com/blog/exploring-vim-6-great-books-to-improve-your-vim-fu
