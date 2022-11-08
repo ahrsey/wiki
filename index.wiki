@@ -660,7 +660,7 @@ Delete all lines containing a pattern, and the `:g` had no idea :mindblown:
 --
 Wed 14 Sep 2022 09:09:01 BST
 
-Ebook registry
+Ebook registry ( no longer working )
 - https://z-lib.org/
 
 Book summaries
