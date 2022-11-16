@@ -895,3 +895,21 @@ https://joyofcode.xyz/
 
 
 https://www.barbarianmeetscoding.com/blog/exploring-vim-6-great-books-to-improve-your-vim-fu
+
+---
+Wed 16 Nov 2022 11:42:13 GMT
+
+Fixing commits with git commit --fixup and git rebase --autosquash
+- https://jordanelver.co.uk/blog/2020/06/04/fixing-commits-with-git-commit-fixup-and-git-rebase-autosquash/
+
+AVOID REBASE HELL: SQUASHING WITHOUT REBASING
+- https://blog.oddbit.com/post/2019-06-17-avoid-rebase-hell-squashing-wi/
+
+Git Interactive Rebase, Squash, Amend and Other Ways of Rewriting History
+- https://thoughtbot.com/blog/git-interactive-rebase-squash-amend-rewriting-history
+
+AWS related commands for removing step functions
+- https://stackoverflow.com/questions/65602569/how-to-stop-lambda-step-functions-execution-as-bulk-stop-multiple-executions-at
+
+Rembg is a tool to remove images background. That is it.
+- https://github.com/danielgatis/rembg
