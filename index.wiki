@@ -52,14 +52,6 @@ Self mutating CDK pipeline
   https://dhirajkhodade.medium.com/self-mutating-cdk-pipeline-which-has-ability-to-update-the-very-infrastructure-that-it-runs-on-cd116e3240e3
 - https://www.youtube.com/watch?v=774leNpQXo0
 
-Some documnetion for dynamodb that isn't terrible
--
-  https://github.com/awsdocs/aws-sdk-for-javascript-v3/blob/main/doc_source/dynamodb-example-dynamodb-utilities.md
-- https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Query.html
-
-AWS sdk v3 docs
--
-  https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/clients/client-dynamodb/index.html
 
 --- Wed  8 Jun 2022 09:52:10 BST
 
@@ -119,10 +111,6 @@ Chalice This looks very interesting, I guess something like serverless expect
 built ontop of cdk
 - https://aws.github.io/chalice/index.html
 
-Dynamodb seeder
-- https://github.com/elegantdevelopment/aws-cdk-dynamodb-seeder This is
-  probably better than using a shell script because you can manage it in the
-  cdk code
 
 ---- Wed 15 Jun 2022 09:30:31 BST
 
@@ -736,12 +724,6 @@ Code generation
 ---
 Sun 25 Sep 2022 13:51:44 BST
 
-dynamodb guide
-- https://www.dynamodbguide.com/what-is-dynamo-db
-
-nosql workbench for dynamodb
-- https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/workbench.html
-
 Algorithms FEM talk - front end masters
 - https://frontendmasters.com/courses/algorithms/
 
@@ -792,7 +774,6 @@ Idiomatic python code
 
 AWS CLI cheatsheet
 - https://www.bluematador.com/learn/aws-cli-cheatsheet
-- https://www.zuar.com/blog/amazon-dynamodb-cheat-sheet/
 
 AWS Practice exams
 - https://digitalcloud.training/practice-exams/
@@ -803,24 +784,12 @@ AWS Practice exams
 ---
 Thu 29 Sep 2022 09:24:56 BST
 
-Awesome dynamodb list
-- https://github.com/alexdebrie/awesome-dynamodb
-
 ---
 Fri 30 Sep 2022 10:11:09 BST
 
 Datasets for model training, but I could use these maybe for generating real db
-data for experimenting with dynamodb performance
+data for experimenting
 - https://www.kaggle.com
-
-Blogs to checkout
-Alex DeBri AWS Data Hero providing training and consulting with expertise in DynamoDB, serverless applications, and cloud-native technology.
-- https://www.alexdebrie.com/
-- https://www.alexdebrie.com/posts/dynamodb-no-bad-queries/
-- https://www.alexdebrie.com/posts/dynamodb-single-table/
-- https://www.alexdebrie.com/posts/dynamodb-patterns-serverless/
-- https://www.trek10.com/blog/dynamodb-single-table-relational-modeling/
-- https://www.alexdebrie.com/posts/choosing-a-database-with-pie/
 
 AWS certifcates practice
 - https://medium.com/javarevisited/top-5-online-courses-to-become-aws-certified-developer-associate-in-2020-best-of-lot-9b22baf84ca8
@@ -829,12 +798,6 @@ AWS certifcates practice
 
 Blog post - Don’t Settle For Eventual Consistency
 - https://yokota.blog/2017/02/17/dont-settle-for-eventual-consistency/
-
-Awesome dynamodb
-- https://github.com/alexdebrie/awesome-dynamodb
-
-Dynamodb cheathseet
-- https://github.com/dabit3/dynamodb-documentclient-cheat-sheet
 
 Make your first contribution in open source
 - https://github.com/firstcontributions/first-contributions
@@ -913,3 +876,16 @@ AWS related commands for removing step functions
 
 Rembg is a tool to remove images background. That is it.
 - https://github.com/danielgatis/rembg
+
+
+---
+Thu 17 Nov 2022 11:17:44 GMT
+
+A set of best practices for JavaScript projects
+- https://github.com/elsewhencode/project-guidelines
+
+Free programming books
+- https://ebookfoundation.github.io/
+
+Project Based Learning
+- https://github.com/practical-tutorials/project-based-learning
