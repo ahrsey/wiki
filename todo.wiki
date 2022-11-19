@@ -1,3 +1,9 @@
+- Abstract helper functions out into more reusable chunks for additional
+  testing and scaffolding dynamodb structures
+- Try and finish all the one to many relationships
+
+= Things to watch =
+
 https://www.youtube.com/watch?v=uL9oOZStezw - still watching
 
 https://www.youtube.com/watch?v=jzeKPKpucS0

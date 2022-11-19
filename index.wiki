@@ -889,3 +889,23 @@ Free programming books
 
 Project Based Learning
 - https://github.com/practical-tutorials/project-based-learning
+
+---
+Fri 18 Nov 2022 19:13:57 GMT
+
+L-99: Ninety-Nine Lisp Problems
+- https://www.ic.unicamp.br/~meidanis/courses/mc336/problemas-lisp/L-99_Ninety-Nine_Lisp_Problems.html
+- https://sites.google.com/site/prologsite/prolog-problems/
+
+Some Ocaml stuff for fun
+- https://ocaml.org/docs/up-and-running
+- https://dev.realworldocaml.org/guided-tour.html
+
+---
+Sat 19 Nov 2022 17:05:51 GMT
+
+The select construct allows you to generate menus.
+- https://linuxize.com/post/bash-select/
+
+Awesome ocaml list
+- https://github.com/ocaml-community/awesome-ocaml
