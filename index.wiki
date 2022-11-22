@@ -909,3 +909,11 @@ The select construct allows you to generate menus.
 
 Awesome ocaml list
 - https://github.com/ocaml-community/awesome-ocaml
+
+debugging node applications in aws
+`To use a SAM template to run and debug a serverless application`
+- https://docs.aws.amazon.com/cloud9/latest/user-guide/serverless-apps-toolkit.html
+- https://aws.amazon.com/about-aws/whats-new/2018/03/aws-cloud9-supports-local-debugging-of-aws-lambda-functions-in-python/
+
+Some things on vim-fugitive
+- http://vimcasts.org/episodes/fugitive-vim---a-complement-to-command-line-git/
