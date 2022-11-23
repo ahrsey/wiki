@@ -917,3 +917,18 @@ debugging node applications in aws
 
 Some things on vim-fugitive
 - http://vimcasts.org/episodes/fugitive-vim---a-complement-to-command-line-git/
+
+---
+Wed 23 Nov 2022 08:48:42 GMT
+
+Public apis
+https://github.com/public-apis/public-apis
+
+Design resources
+https://github.com/bradtraversy/design-resources-for-developers
+
+Syncing vimwiki notes for updates on the move
+https://old.reddit.com/r/vim/comments/fesy87/vimwiki_on_the_move/
+
+Algorithms
+https://www.algorithm-archive.org/
