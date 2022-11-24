@@ -932,3 +932,23 @@ https://old.reddit.com/r/vim/comments/fesy87/vimwiki_on_the_move/
 
 Algorithms
 https://www.algorithm-archive.org/
+
+Process execution for humans in node
+https://www.npmjs.com/package/execa
+
+Streams
+https://blog.logrocket.com/working-node-js-streams/
+https://www.npmjs.com/package/parallel-stream
+https://www.youtube.com/watch?v=rQXaDH__Suk
+https://www.youtube.com/watch?v=qU8PmZOOnac
+
+Event emitter
+https://www.digitalocean.com/community/tutorials/using-event-emitters-in-node-js
+https://codeburst.io/basics-of-events-streams-and-pipe-in-node-js-b84578c2f1be
+
+---
+Thu 24 Nov 2022 10:23:54 GMT
+
+= Vite =
+Next Generation Frontend Tooling
+https://vitejs.dev/
