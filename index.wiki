@@ -961,3 +961,10 @@ Tue 29 Nov 2022 13:44:21 GMT
 
 Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
 https://github.com/vendia/serverless-express
+
+
+---
+Thu  1 Dec 2022 08:58:22 GMT
+
+Node.js CLI Apps Best Practices
+https://github.com/lirantal/nodejs-cli-apps-best-practices
