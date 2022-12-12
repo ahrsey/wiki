@@ -888,7 +888,7 @@ Free programming books
 - https://ebookfoundation.github.io/
 
 Project Based Learning
-- https://github.com/practical-tutorials/project-based-learning
+-
 
 ---
 Fri 18 Nov 2022 19:13:57 GMT
@@ -970,3 +970,16 @@ Node.js CLI Apps Best Practices
 https://github.com/lirantal/nodejs-cli-apps-best-practices
 
 https://protohackers.com/
+
+
+---
+# Creating new setup
+
+Next thing I wanted to setup
+https://github.com/marlonrichert/zsh-autocomplete
+Trying to get reverse history search on up working
+https://superuser.com/questions/380657/history-search-backward-working-differently-in-zsh-than-in-bash
+https://zsh.sourceforge.io/Doc/Release/Zsh-Line-Editor.html#History-Control
+https://github.com/ricbra/zsh-config/blob/master/zshrc
+https://wiki.debian.org/Zsh
+https://ianyepan.github.io/posts/moving-away-from-ohmyzsh/
