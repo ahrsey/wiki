@@ -983,3 +983,10 @@ https://zsh.sourceforge.io/Doc/Release/Zsh-Line-Editor.html#History-Control
 https://github.com/ricbra/zsh-config/blob/master/zshrc
 https://wiki.debian.org/Zsh
 https://ianyepan.github.io/posts/moving-away-from-ohmyzsh/
+
+https://vitejs.dev/
+
+https://github.com/thi-ng/umbrella
+
+https://github.com/nvim-lua/kickstart.nvim
+https://github.com/nanotee/nvim-lua-guide
