@@ -990,3 +990,9 @@ https://github.com/thi-ng/umbrella
 
 https://github.com/nvim-lua/kickstart.nvim
 https://github.com/nanotee/nvim-lua-guide
+
+# check this out, buffers with b] and b[ and I can use other easy toggles like
+  this for tabs maybe t[ and t], this could be pretty cool
+https://github.com/tpope/vim-unimpaired
+
+https://bertvv.github.io/cheat-sheets/Bash.html
