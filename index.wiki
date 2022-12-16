@@ -996,3 +996,12 @@ https://github.com/nanotee/nvim-lua-guide
 https://github.com/tpope/vim-unimpaired
 
 https://bertvv.github.io/cheat-sheets/Bash.html
+https://www.youtube.com/watch?v=ecK3EnyGD8o
+
+# open source
+https://www.codetriage.com/
+https://rysolv.com/issues
+
+Checkout paas service
+https://hop.io
+
