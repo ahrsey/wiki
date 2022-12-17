@@ -1002,6 +1002,5 @@ https://www.youtube.com/watch?v=ecK3EnyGD8o
 https://www.codetriage.com/
 https://rysolv.com/issues
 
-Checkout paas service
-https://hop.io
-
+Vim links
+https://marcotrosi.tumblr.com/post/132493631843/vim-link-collection
