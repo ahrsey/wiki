@@ -1004,3 +1004,11 @@ https://rysolv.com/issues
 
 Vim links
 https://marcotrosi.tumblr.com/post/132493631843/vim-link-collection
+
+
+---
+Sat 17 Dec 2022 19:17:15 GMT
+
+Docker resources for learning
+https://docker-curriculum.com/#getting-started
+https://github.com/veggiemonk/awesome-docker
