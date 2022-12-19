@@ -1012,3 +1012,13 @@ Sat 17 Dec 2022 19:17:15 GMT
 Docker resources for learning
 https://docker-curriculum.com/#getting-started
 https://github.com/veggiemonk/awesome-docker
+
+Vim search groups
+https://twitter.com/vim_tricks/status/1604213731990286336?s=20&t=YY7lO0K6JE7RrFGIu75-Uw
+https://vimtricks.com/p/vimtrick-insert-matched-pattern/
+
+
+Vim dotfiles related things
+https://github.com/ThePrimeagen/init.lua
+https://github.com/nvim-lua/kickstart.nvim
+https://github.com/ThePrimeagen
