@@ -1022,3 +1022,9 @@ Vim dotfiles related things
 https://github.com/ThePrimeagen/init.lua
 https://github.com/nvim-lua/kickstart.nvim
 https://github.com/ThePrimeagen
+
+Cool looking blog
+https://jtreminio.com/blog/running-docker-containers-as-current-host-user/
+
+Installing debian
+https://www.dwarmstrong.org/minimal-debian/
