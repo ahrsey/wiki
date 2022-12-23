@@ -1028,3 +1028,13 @@ https://jtreminio.com/blog/running-docker-containers-as-current-host-user/
 
 Installing debian
 https://www.dwarmstrong.org/minimal-debian/
+
+AWS iam access policies
+https://aws.amazon.com/premiumsupport/knowledge-center/dynamodb-table-restrict-attributes/
+https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_dynamodb_items.html
+https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/specifying-conditions.html#FGAC_DDB.ConditionKeys
+
+= Things to build for my time off =
+- user registration flow
+
+
