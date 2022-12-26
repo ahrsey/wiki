@@ -1037,4 +1037,13 @@ https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/specifying-cond
 = Things to build for my time off =
 - user registration flow
 
+= Main things I want to do this time off =
+== Build user registration application boilerplate ==
+iam, KMS, cognito, dynamodb, lambda, terraform, typescript
+
+= Tidy house =
+= new vim config =
+= linux dev system =
+= remote dev system =
+= Tidy up wiki and setup remote wiki =
 
