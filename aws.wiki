@@ -82,3 +82,66 @@ https://github.com/drmikecrowe/serverless-s3-streaming-example/blob/master/src/l
 
 Understanding Container Reuse in AWS Lambda
 - https://aws.amazon.com/blogs/compute/container-reuse-in-lambda/
+
+= Blue green deployments on AWS =
+- https://aws-quickstart.s3.amazonaws.com/quickstart-codepipeline-bluegreen-deployment/doc/blue-green-deployments-to-aws-elastic-beanstalk-on-the-aws-cloud.pdf
+
+Awesome aws list
+https://github.com/anaibol/awesome-serverless 
+https://project-awesome.org/donnemartin/awesome-aws#api-gateway
+
+= dazn-lambda-powertools = 
+is a collection of middlewares, AWS clients and helper
+libraries that make working with lambda easier.
+https://github.com/getndazn/dazn-lambda-powertools
+
+= AWS Lambda Powertools =
+for TypeScript provides a suite of utilities for AWS
+Lambda functions running on the Node.js runtime, to ease the adoption of best
+practices such as tracing, structured logging, custom metrics, and more.
+https://awslabs.github.io/aws-lambda-powertools-typescript/latest/
+
+
+= sam local generate-event =
+https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/sam-cli-command-reference-sam-local-generate-event.html
+
+The Open Guide to Amazon Web Services
+https://github.com/open-guides/og-aws
+
+Serverless Messaging: Latency Compared
+https://bitesizedserverless.com/bite/serverless-messaging-latency-compared/?utm_source=linkedin&utm_medium=social
+
+Lambda powertools
+https://github.com/alexcasalboni/aws-lambda-power-tuning 
+
+AWS certificate exams
+https://tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/
+
+How to log in to multiple AWS accounts AWS.
+https://towardsaws.com/how-to-log-in-to-multiple-aws-accounts-the-easy-way-9cfd6ef0d628
+https://docs.commonfate.io/granted/getting-started/
+https://github.com/common-fate/granted
+
+AWS CLI cheatsheet
+https://www.bluematador.com/learn/aws-cli-cheatsheet
+
+AWS Practice exams
+https://digitalcloud.training/practice-exams/
+https://geekflare.com/aws-practice-test/
+https://portal.tutorialsdojo.com/shop/
+https://portal.tutorialsdojo.com/courses/aws-certified-developer-associate-practice-exams/
+
+AWS certifcates practice
+https://medium.com/javarevisited/top-5-online-courses-to-become-aws-certified-developer-associate-in-2020-best-of-lot-9b22baf84ca8
+https://medium.com/javarevisited/6-best-aws-developer-associate-dva-c001-certification-practice-test-mock-exams-and-dumps-9e24573f509a
+https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/
+
+Serverless Applications Lens AWS Well-Architected Framework
+https://docs.aws.amazon.com/wellarchitected/latest/serverless-applications-lens/welcome.html
+https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc&wa-guidance-whitepapers.sort-by=item.additionalFields.sortDate&wa-guidance-whitepapers.sort-order=desc
+
+Error handling in step functions
+https://aws.amazon.com/blogs/developer/handling-errors-retries-and-adding-alerting-to-step-function-state-machine-executions/
+
+AWS related commands for removing step functions
+https://stackoverflow.com/questions/65602569/how-to-stop-lambda-step-functions-execution-as-bulk-stop-multiple-executions-at

@@ -1,5 +1,30 @@
-- [[nx monorepo]]
-- [[typescript]]
-- [[docblocks]]
+[[interview]]
+[[monorepo]]
+[[typescript]]
+[[docblocks]]
+[[golang]]
+[[git]]
+[[python]]
+[[webgl]]
+[[linux]]
+[[bash]]
+[[make]]
+[[ocaml]]
 
-Would be good to figure out how to debug memory leaks in aws applications
+Project Based Learning
+A list of programming tutorials in which aspiring software developers learn how to build an application from scratch.
+https://github.com/practical-tutorials/project-based-learning#python
+
+Over 100 implementations of same app in different languages
+https://github.com/gothinkster/realworld
+https://codebase.show/projects/realworld
+
+Top deep-dives on Algorithms
+https://abyteofcoding.com/blog/articles-on-algorithms/
+
+Advanced patterns workshop
+https://github.com/total-typescript/advanced-patterns-workshop
+
+L-99: Ninety-Nine Lisp Problems
+https://www.ic.unicamp.br/~meidanis/courses/mc336/problemas-lisp/L-99_Ninety-Nine_Lisp_Problems.html
+https://sites.google.com/site/prologsite/prolog-problems/

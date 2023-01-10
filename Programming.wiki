@@ -42,3 +42,48 @@ I found a few articles about this concept and most of them just refactor the bas
 class to be more generic and then extend that with more detailed class types.
 
 - https://javatechonline.com/solid-principles-the-liskov-substitution-principle/
+
+
+= The twelve-factor app =
+Might be interesting to read about this
+https://www.12factor.net/
+
+Computer science - Open Source Society University
+https://github.com/ossu/computer-science
+
+System Design Course
+https://github.com/karanpratapsingh/system-design
+
+Tech Interview Handbook
+https://github.com/yangshun/tech-interview-handbook
+
+Clean code javascript
+https://github.com/ryanmcdermott/clean-code-javascript
+
+You Don't Know JS Yet (book series) - 2nd Edition
+https://github.com/getify/You-Dont-Know-JS
+
+Free programming books
+https://github.com/EbookFoundation/free-programming-books
+
+This repository is a compilation of well-written, step-by-step guides for
+re-creating our favorite technologies from scratch. 
+https://github.com/codecrafters-io/build-your-own-x
+
+= Computer Science Curriculum = 
+https://github.com/bootdotdev/curriculum
+
+= Computer Science courses with video lectures =
+https://github.com/Developer-Y/cs-video-courses
+
+Top five data integration patterns
+https://www.mulesoft.com/resources/esb/top-five-data-integration-patterns
+
+Top deep-dives on Algorithms
+https://abyteofcoding.com/blog/articles-on-algorithms/
+
+Algorithms FEM talk front end masters
+https://frontendmasters.com/courses/algorithms/
+
+Free programming books
+https://ebookfoundation.github.io/

@@ -1,5 +1,11 @@
-Look into type definitions and generating types
-- https://www.typescriptlang.org/docs/handbook/declaration-files/dts-from-js.html
+= Look into type definitions and generating types =
+https://www.typescriptlang.org/docs/handbook/declaration-files/dts-from-js.html
 
-Gamification of typescript type learning, should really check this out
-- https://github.com/type-challenges/type-challenges
+= Gamification of typescript type learning, should really check this out =
+https://github.com/type-challenges/type-challenges
+
+= Look into type definitions and generating types =
+https://www.typescriptlang.org/docs/handbook/declaration-files/dts-from-js.html
+
+= Gamification of typescript type learning, should really check this out =
+https://github.com/type-challenges/type-challenges
