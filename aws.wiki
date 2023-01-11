@@ -145,3 +145,13 @@ https://aws.amazon.com/blogs/developer/handling-errors-retries-and-adding-alerti
 
 AWS related commands for removing step functions
 https://stackoverflow.com/questions/65602569/how-to-stop-lambda-step-functions-execution-as-bulk-stop-multiple-executions-at
+
+Debugging node applications in aws
+`To use a SAM template to run and debug a serverless application`
+https://docs.aws.amazon.com/cloud9/latest/user-guide/serverless-apps-toolkit.html
+https://aws.amazon.com/about-aws/whats-new/2018/03/aws-cloud9-supports-local-debugging-of-aws-lambda-functions-in-python/
+
+AWS iam access policies
+https://aws.amazon.com/premiumsupport/knowledge-center/dynamodb-table-restrict-attributes/
+https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_dynamodb_items.html
+https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/specifying-conditions.html#FGAC_DDB.ConditionKeys

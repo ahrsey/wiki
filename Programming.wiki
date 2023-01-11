@@ -87,3 +87,6 @@ https://frontendmasters.com/courses/algorithms/
 
 Free programming books
 https://ebookfoundation.github.io/
+
+Algorithms
+https://www.algorithm-archive.org/

@@ -1,4 +1,3 @@
-= Wiki =
 [[Programming]]
 [[aws]]
 [[apps-to-build]]
@@ -10,175 +9,14 @@
 Thinkpad buyers guide, for my next linux laptop
 https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide
 
----
-Sat 19 Nov 2022 17:05:51 GMT
-
-debugging node applications in aws
-`To use a SAM template to run and debug a serverless application`
-https://docs.aws.amazon.com/cloud9/latest/user-guide/serverless-apps-toolkit.html
-https://aws.amazon.com/about-aws/whats-new/2018/03/aws-cloud9-supports-local-debugging-of-aws-lambda-functions-in-python/
-
-Some things on vim-fugitive
-http://vimcasts.org/episodes/fugitive-vim---a-complement-to-command-line-git/
-
----
-Wed 23 Nov 2022 08:48:42 GMT
-
-Public apis
-https://github.com/public-apis/public-apis
-
-Design resources
-https://github.com/bradtraversy/design-resources-for-developers
-
-Syncing vimwiki notes for updates on the move
-https://old.reddit.com/r/vim/comments/fesy87/vimwiki_on_the_move/
-
-Algorithms
-https://www.algorithm-archive.org/
-
-Process execution for humans in node
-https://www.npmjs.com/package/execa
-
-Streams
-https://blog.logrocket.com/working-node-js-streams/
-https://www.npmjs.com/package/parallel-stream
-https://www.youtube.com/watch?v=rQXaDH__Suk
-https://www.youtube.com/watch?v=qU8PmZOOnac
-https://www.freecodecamp.org/news/node-js-streams-everything-you-need-to-know-c9141306be93/
-https://nodesource.com/blog/understanding-streams-in-nodejs/
-https://css-tricks.com/web-streams-everywhere-and-fetch-for-node-js/
-
-Event emitter
-https://www.digitalocean.com/community/tutorials/using-event-emitters-in-node-js
-https://codeburst.io/basics-of-events-streams-and-pipe-in-node-js-b84578c2f1be
-
----
-Thu 24 Nov 2022 10:23:54 GMT
-
-= Vite =
-Next Generation Frontend Tooling
-https://vitejs.dev/
-
----
-Tue 29 Nov 2022 13:44:21 GMT
-
-Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
-https://github.com/vendia/serverless-express
-
-
----
-Thu  1 Dec 2022 08:58:22 GMT
-
-Node.js CLI Apps Best Practices
-https://github.com/lirantal/nodejs-cli-apps-best-practices
-
 https://protohackers.com/
 
-
----
-# Creating new setup
-
-Next thing I wanted to setup
-https://github.com/marlonrichert/zsh-autocomplete
-Trying to get reverse history search on up working
-https://superuser.com/questions/380657/history-search-backward-working-differently-in-zsh-than-in-bash
-https://zsh.sourceforge.io/Doc/Release/Zsh-Line-Editor.html#History-Control
-https://github.com/ricbra/zsh-config/blob/master/zshrc
-https://wiki.debian.org/Zsh
-https://ianyepan.github.io/posts/moving-away-from-ohmyzsh/
-
-https://vitejs.dev/
-
-https://github.com/thi-ng/umbrella
-
-https://github.com/nvim-lua/kickstart.nvim
-https://github.com/nanotee/nvim-lua-guide
-
-# check this out, buffers with b] and b[ and I can use other easy toggles like
-  this for tabs maybe t[ and t], this could be pretty cool
-https://github.com/tpope/vim-unimpaired
-
-https://bertvv.github.io/cheat-sheets/Bash.html
+Git things to go through
 https://www.youtube.com/watch?v=ecK3EnyGD8o
-
-# open source
-https://www.codetriage.com/
-https://rysolv.com/issues
-
-Vim links
-https://marcotrosi.tumblr.com/post/132493631843/vim-link-collection
-
-
----
-Sat 17 Dec 2022 19:17:15 GMT
-
-Docker resources for learning
-https://docker-curriculum.com/#getting-started
-https://github.com/veggiemonk/awesome-docker
 
 Vim search groups
 https://twitter.com/vim_tricks/status/1604213731990286336?s=20&t=YY7lO0K6JE7RrFGIu75-Uw
 https://vimtricks.com/p/vimtrick-insert-matched-pattern/
 
-
-Vim dotfiles related things
-https://github.com/ThePrimeagen/init.lua
-https://github.com/nvim-lua/kickstart.nvim
-https://github.com/ThePrimeagen
-
-Cool looking blog
-https://jtreminio.com/blog/running-docker-containers-as-current-host-user/
-
-Installing debian
-https://www.dwarmstrong.org/minimal-debian/
-
-AWS iam access policies
-https://aws.amazon.com/premiumsupport/knowledge-center/dynamodb-table-restrict-attributes/
-https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_dynamodb_items.html
-https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/specifying-conditions.html#FGAC_DDB.ConditionKeys
-
-= Things to build for my time off =
-user registration flow
-
-= Main things I want to do this time off =
-== Build user registration application boilerplate ==
-iam, KMS, cognito, dynamodb, lambda, terraform, typescript
-
-= Tidy house =
-= new vim config =
-= linux dev system =
-= remote dev system =
-= Tidy up wiki and setup remote wiki =
-
-Plugins and other snippets for new nvim config
-https://github.com/folke/neodev.nvim
-https://github.com/nvim-telescope/telescope-fzf-native.nvim
-https://github.com/tpope/vim-sleuth
-https://github.com/numToStr/Comment.nvim
-https://github.com/j-hui/fidget.nvim
-https://github.com/nvim-treesitter/nvim-treesitter-textobjects
-https://github.com/nvim-lualine/lualine.nvim
-https://github.com/nvim-lua/kickstart.nvim/blob/master/init.lua
-
-
-cleanup wiki + todos etc
-work on vim config
-improve installation script with list of what was not setup correctly after build
-update install script to work on macos
-
-= Optimization killers =
-https://github.com/petkaantonov/bluebird/wiki/Optimization-killers
-
 Cool blog to checkout
 https://jovica.org/posts/vim_swap/#:~:text=Another%20important%20role%20of%20swap,a%20system%20with%20multiple%20users.&text=You%20can%20disable%20swap%20files,vimrc%20.
-
-Terraform aws cognito
-https://articles.epiphyte.io/cognito-user-pool-with-terraform-4b28e2ee311
-https://github.com/search?q=aws+terraform+examples&type=Repositories
-https://medium.com/@klaus.dobbler/getting-started-with-terraform-and-aws-reusable-template-repository-from-scratch-67e92a50603
-https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/launch_template
-https://aws.amazon.com/blogs/containers/aws-proton-terraform-templates/
-https://github.com/aws-samples/aws-proton-terraform-sample-templates
-https://spacelift.io/blog/terraform-templates
-https://articles.epiphyte.io/cognito-user-pool-with-terraform-4b28e2ee311
-https://registry.terraform.io/providers/hashicorp/null/latest/docs/resources/resource

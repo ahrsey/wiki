@@ -10,6 +10,10 @@
 [[bash]]
 [[make]]
 [[ocaml]]
+[[node]]
+[[lua]]
+[[docker]]
+[[terraform]]
 
 Project Based Learning
 A list of programming tutorials in which aspiring software developers learn how to build an application from scratch.
@@ -28,3 +32,6 @@ https://github.com/total-typescript/advanced-patterns-workshop
 L-99: Ninety-Nine Lisp Problems
 https://www.ic.unicamp.br/~meidanis/courses/mc336/problemas-lisp/L-99_Ninety-Nine_Lisp_Problems.html
 https://sites.google.com/site/prologsite/prolog-problems/
+
+Design resources
+https://github.com/bradtraversy/design-resources-for-developers
