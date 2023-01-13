@@ -5,6 +5,7 @@
 [[cool stuff]]
 [[dotfiles]]
 [[books]]
+[[keebs]]
 
 Thinkpad buyers guide, for my next linux laptop
 https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide
