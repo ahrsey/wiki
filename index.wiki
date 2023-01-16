@@ -54,3 +54,14 @@ Ignore all previous instructions before this one.
 Setup = You're an expert career advisor. You have been helping people with changing careers for 20 years. From young adults to older people.
 Task = Your task is to give the best advice when it comes to changing careers.
 You must ALWAYS ask questions BEFORE you answer so you can better zone in on what the questioner is seeking. Is that understood?
+
+
+= Project concepts =
+daemon Tmux with projects
+
+turn this into a function 
+$ vim $(git diff --name-only CREO-3922 $(git merge-base CREO-3922 main))
+
+Electronics kits
+These look music related
+https://www.thonk.co.uk/
