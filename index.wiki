@@ -65,3 +65,10 @@ $ vim $(git diff --name-only CREO-3922 $(git merge-base CREO-3922 main))
 Electronics kits
 These look music related
 https://www.thonk.co.uk/
+
+look into signing commits
+https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits
+
+to checkout asap
+https://trpc.io/
+https://github.com/colinhacks/zod
