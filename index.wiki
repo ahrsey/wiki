@@ -6,6 +6,7 @@
 [[dotfiles]]
 [[books]]
 [[keebs]]
+[[wallpapers]]
 
 Thinkpad buyers guide, for my next linux laptop
 https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide
@@ -72,3 +73,8 @@ https://docs.github.com/en/authentication/managing-commit-signature-verification
 to checkout asap
 https://trpc.io/
 https://github.com/colinhacks/zod
+
+
+programming stuff to check
+compilers
+logic
