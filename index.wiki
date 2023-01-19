@@ -56,7 +56,6 @@ Setup = You're an expert career advisor. You have been helping people with chang
 Task = Your task is to give the best advice when it comes to changing careers.
 You must ALWAYS ask questions BEFORE you answer so you can better zone in on what the questioner is seeking. Is that understood?
 
-
 = Project concepts =
 daemon Tmux with projects
 
@@ -78,3 +77,9 @@ https://github.com/colinhacks/zod
 programming stuff to check
 compilers
 logic
+
+json resume
+https://jsonresume.org/
+
+how_do_you_guys_run_the_code_you_write_with_vim
+https://old.reddit.com/r/vim/comments/10fboc6/how_do_you_guys_run_the_code_you_write_with_vim/
