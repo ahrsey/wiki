@@ -36,3 +36,7 @@ https://sites.google.com/site/prologsite/prolog-problems/
 
 Design resources
 https://github.com/bradtraversy/design-resources-for-developers
+
+Free certs
+https://www.freecodecamp.org/news/free-certificates/
+https://markodenic.com/free-certifications-for-developers/

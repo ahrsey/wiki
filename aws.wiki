@@ -155,3 +155,6 @@ AWS iam access policies
 https://aws.amazon.com/premiumsupport/knowledge-center/dynamodb-table-restrict-attributes/
 https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_dynamodb_items.html
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/specifying-conditions.html#FGAC_DDB.ConditionKeys
+
+Cost cli application
+https://github.com/kamranahmedse/aws-cost-cli
