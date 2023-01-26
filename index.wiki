@@ -89,7 +89,11 @@ https://apple.stackexchange.com/questions/434555/can-you-completely-disable-desk
 
 some other things to organise
 
-
 Critical thinking cheatsheet
 https://i.redd.it/wj5gxr7u3sda1.jpg
 
+https://github.com/challenger-deep-theme/themes
+gitea
+drone ci
+activity pub
+https://ipfs.tech/
