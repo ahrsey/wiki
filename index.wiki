@@ -97,3 +97,9 @@ gitea
 drone ci
 activity pub
 https://ipfs.tech/
+
+building your own redis
+https://build-your-own.org/redis/
+
+blogs
+https://matklad.github.io/2023/01/26/rusts-ugly-syntax.html

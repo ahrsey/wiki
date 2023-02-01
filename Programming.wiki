@@ -88,5 +88,6 @@ https://frontendmasters.com/courses/algorithms/
 Free programming books
 https://ebookfoundation.github.io/
 
-Algorithms
+= Algorithms =
 https://www.algorithm-archive.org/
+https://github.com/trekhleb/javascript-algorithms
