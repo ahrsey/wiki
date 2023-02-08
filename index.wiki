@@ -106,3 +106,6 @@ https://matklad.github.io/2023/01/26/rusts-ugly-syntax.html
 
 vale.sh
 linting for blog posts?
+
+Sysmte Design Interview preparation
+https://leetcode.com/discuss/career/229177/My-System-Design-Template
