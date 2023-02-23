@@ -112,3 +112,8 @@ https://leetcode.com/discuss/career/229177/My-System-Design-Template
 
 Levenshtein distance
 https://en.wikipedia.org/wiki/Levenshtein_distance
+
+
+Find duplicate lines in file
+:%!awk 'a[$0]++'
+
