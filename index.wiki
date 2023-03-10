@@ -117,3 +117,5 @@ https://en.wikipedia.org/wiki/Levenshtein_distance
 Find duplicate lines in file
 :%!awk 'a[$0]++'
 
+Investigate this sst for aws
+https://sst.dev/
