@@ -42,3 +42,6 @@ https://github.com/bradtraversy/design-resources-for-developers
 Free certs
 https://www.freecodecamp.org/news/free-certificates/
 https://markodenic.com/free-certifications-for-developers/
+
+Project Euler
+https://projecteuler.net/archives
