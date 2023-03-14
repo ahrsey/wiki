@@ -119,3 +119,6 @@ Find duplicate lines in file
 
 Investigate this sst for aws
 https://sst.dev/
+
+algorithms
+https://the-algorithms.com/
