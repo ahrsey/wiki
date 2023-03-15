@@ -9,3 +9,7 @@ https://www.typescriptlang.org/docs/handbook/declaration-files/dts-from-js.html
 
 = Gamification of typescript type learning, should really check this out =
 https://github.com/type-challenges/type-challenges
+
+courses
+https://type-level-typescript.com/
+https://www.totaltypescript.com/
