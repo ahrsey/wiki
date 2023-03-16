@@ -122,3 +122,6 @@ https://sst.dev/
 
 algorithms
 https://the-algorithms.com/
+
+ts-reset
+https://github.com/total-typescript/ts-reset
