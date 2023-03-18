@@ -1,0 +1,251 @@
+= Trpc =
+https://trpc.io/
+
+= Graphql =
+https://formidable.com/open-source/urql/
+
+= VIM Fugitive =
+[cheatsheet vim]
+- https://cheatography.com/jennings/cheat-sheets/vim-fugitive/
+
+= Chalice =
+[aws]
+https://aws.github.io/chalice/index.html
+
+= Make code screenshots =
+https://carbon.now.sh/
+
+= Soketi =
+Just another simple, fast, and resilient open-source WebSockets server. 📣
+https://github.com/soketi/soketi
+
+= Snippets =
+[nvim]
+Need to checkout snippets how these work
+https://github.com/L3MON4D3/LuaSnip/blob/master/DOC.md
+
+= Dap =
+[nvim plugin]
+Need to check these out, breakpoint debugging in vim should be pretty cool, but
+maybe won't work in aws serverless
+- https://github.com/rcarriga/nvim-dap-ui
+- https://github.com/mfussenegger/nvim-dap
+
+Architect is a simple framework for building and delivering powerful Functional
+Web Apps (FWAs) on AWS
+https://arc.codes/docs/en/get-started/quickstart
+
+Advanced motions plugin for vim
+https://github.com/ggandor/leap.nvim
+
+= Some nvim plugins for inspiration =
+https://morioh.com/p/a7063de46490
+https://github.com/RishabhRD/nvim-lsputils?ref=morioh.com&utm_source=morioh.com
+https://github.com/weilbith/nvim-code-action-menu
+https://github.com/anott03/nvim-lspinstall
+https://github.com/alexaandru/nvim-lspupdate
+
+= Git worktrees =
+- https://www.youtube.com/watch?v=2uEqYw-N8uE
+- https://levelup.gitconnected.com/git-worktrees-the-best-git-feature-youve-never-heard-of-9cd21df67baf
+
+= Bun is a fast all-in-one JavaScript runtime =
+- https://bun.sh/
+
+Transfer files over Wi-Fi from your computer to a mobile device by scanning a
+QR code without leaving the terminal.
+https://github.com/claudiodangelis/qrcp
+
+Other terminal apps to check out
+-` fc`
+-` batch`
+-` ionice / nice`
+-` cut / tr`
+-` tree`
+-` uniq`
+-` stty`
+- `dd`
+
+= improve how you architect webapps =
+https://www.patterns.dev/
+
+= Ripgrep (rg) cheatsheet =
+https://jdhao.github.io/2020/02/16/ripgrep_cheat_sheet/
+
+= Checkov is a static code analysis tool for infrastructure as code =
+https://github.com/bridgecrewio/checkov
+
+= Supabase is an open source Firebase alternative. =
+https://github.com/supabase/supabase
+
+= Codeberg =
+https://codeberg.org/
+
+= TMUX = 
+related info cheatsheet, tutorials etc
+https://github.com/rothgar/awesome-tmux
+https://thoughtbot.com/blog/a-tmux-crash-course
+https://www.dbi-services.com/blog/using-tmux-for-semi-interactive-demos/
+
+= Facebook path picker =
+https://facebook.github.io/PathPicker/
+
+Some cool reddit awesome lists
+Learn anything subreddits
+[learning]
+https://github.com/learn-anything/reddit
+https://github.com/iCHAIT/awesome-subreddits
+
+List of public apis
+https://github.com/public-apis/public-apis
+
+This repo links to solutions of Projects written by other users in any language.
+https://github.com/karan/Projects-Solutions
+
+= Whiptail =
+https://en.wikibooks.org/wiki/Bash_Shell_Scripting/Whiptail
+
+A list of the most github stars and forks repositories.
+https://github.com/EvanLi/Github-Ranking
+
+Privacy Tools: Software Alternatives and Encryption
+https://www.privacytools.io/
+
+Podman is a daemonless container engine for developing, managing, and running OCI Containers on your Linux System.
+https://podman.io/
+
+Ebook registry ( no longer working )
+https://z-lib.org/
+
+Book summaries
+https://www.blinkist.com/
+
+Open Source realtime backend in, go golang
+https://github.com/pocketbase/pocketbase
+
+Investigate :g :global a bit more, super powerful
+https://vim.fandom.com/wiki/Power_of_g
+
+= Navi =
+An interactive cheatsheet tool for the command-line.
+https://github.com/denisidoro/navi
+
+= jq =
+a TUI playground for exploring jq. cli
+https://github.com/noahgorstein/jqp
+
+Diagnosing memory related issues in node
+https://morioh.com/p/739d5995cc6b
+https://blog.appsignal.com/2021/12/08/nodejs-memory-limits-what-you-should-know.html
+
+Blog to check out
+https://beabetterdev.com/
+
+Serverless application patterns
+https://serverlessland.com/
+
+Vimwiki Command-Line Interface
+https://pypi.org/project/vimwiki-cli/
+
+Blog with some stuff about VIM
+https://freshman.tech/vim-quickfix-and-location-list/
+
+Vimspector A multi language graphical debugger for VIM
+https://dev.to/iggredible/debugging-in-vim-with-vimspector-4n0m
+https://github.com/puremourning/vimspector
+
+Make your first contribution in open source
+https://github.com/firstcontributions/first-contributions
+
+Dall-e
+https://openai.com/blog/dall-e/
+
+Satori: Library to convert HTML and CSS to SVG.
+https://github.com/vercel/satori
+https://vercel.com/docs/concepts/functions/edge-functions/og-image-generation
+
+Rembg is a tool to remove images background. That is it.
+https://github.com/danielgatis/rembg
+
+A set of best practices for JavaScript projects
+https://github.com/elsewhencode/project-guidelines
+
+[[Some]] things on vim-fugitive
+http://vimcasts.org/episodes/fugitive-vim---a-complement-to-command-line-git/
+
+Public apis
+https://github.com/public-apis/public-apis
+
+Syncing vimwiki notes for updates on the move
+https://old.reddit.com/r/vim/comments/fesy87/vimwiki_on_the_move/
+
+= Vite =
+Next Generation Frontend Tooling
+https://vitejs.dev/
+https://github.com/vitejs/awesome-vite#templates
+https://codingwithmanny.medium.com/quick-jest-setup-with-vitejs-react-typescript-82f325e4323f
+
+Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
+https://github.com/vendia/serverless-express
+
+Zsh things I setup, good to go through these again in the futre
+https://github.com/marlonrichert/zsh-autocomplete
+Trying to get reverse history search on up working
+https://superuser.com/questions/380657/history-search-backward-working-differently-in-zsh-than-in-bash
+https://zsh.sourceforge.io/Doc/Release/Zsh-Line-Editor.html#History-Control
+https://github.com/ricbra/zsh-config/blob/master/zshrc
+https://wiki.debian.org/Zsh
+https://ianyepan.github.io/posts/moving-away-from-ohmyzsh/
+
+check this out, buffers with b] and b[ and I can use other easy toggles like
+  this for tabs maybe t[ and t], this could be pretty cool
+https://github.com/tpope/vim-unimpaired
+
+= Vim links =
+https://marcotrosi.tumblr.com/post/132493631843/vim-link-collection
+
+Open source, getting started
+https://www.codetriage.com/
+https://rysolv.com/issues
+
+Thinkpad buyers guide, for my next linux laptop
+https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide
+
+https://protohackers.com/
+
+Git things to go through
+https://www.youtube.com/watch?v=ecK3EnyGD8o
+
+Vim search groups
+https://twitter.com/vim_tricks/status/1604213731990286336?s=20&t=YY7lO0K6JE7RrFGIu75-Uw
+https://vimtricks.com/p/vimtrick-insert-matched-pattern/
+
+Cool looking blog
+https://jtreminio.com/blog/running-docker-containers-as-current-host-user/
+
+Openai cookbook
+Might be good to check this out, see if there is anything I can leverage
+https://github.com/openai/openai-cookbook
+
+= Mutt =
+Tutorial
+https://brian-thompson.medium.com/setting-up-the-mutt-mail-client-with-protonmail-49c042486b3
+https://gitlab.com/muttmua/mutt/-/wikis/MuttGuide/Introduction
+https://gitlab.com/muttmua/mutt/-/wikis/ConfigTricks
+https://gitlab.com/muttmua/mutt/-/wikis/MuttGuide
+
+= Oil.vim =
+A vim-vinegar like file explorer that lets you edit your filesystem like a normal Neovim buffer.
+https://github.com/stevearc/oil.nvim
+
+= Git-Sim =
+https://initialcommit.com/blog/git-sim
+
+= wezterm =
+https://github.com/wez/wezterm
+
+= Codewars =
+https://www.codewars.com/
+
+= Dredd =
+https://github.com/apiaryio/dredd

@@ -1,0 +1,12 @@
+Check out these bash boilerplates
+https://medium.com/@brotandgames/build-a-custom-cli-with-bash-e3ce60cfb9a4o
+https://thoughtbot.com/upcase/videos/lets-build-a-cli
+https://github.com/xwmx/bash-boilerplate
+https://betterdev.blog/minimal-safe-bash-script-template/
+https://bash3boilerplate.sh/
+
+The select construct allows you to generate menus.
+https://linuxize.com/post/bash-select/
+
+Bash cheatsheet
+https://bertvv.github.io/cheat-sheets/Bash.html

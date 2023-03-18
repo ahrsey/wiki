@@ -1,0 +1,6 @@
+Some Ocaml stuff for fun
+https://ocaml.org/docs/up-and-running
+https://dev.realworldocaml.org/guided-tour.html
+
+Awesome ocaml list
+https://github.com/ocaml-community/awesome-ocaml

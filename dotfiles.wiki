@@ -1,0 +1,22 @@
+= Some dotfiles to checkout =
+https://github.com/craftzdog/dotfiles-public
+
+Ash's dotfiles to checkout
+https://gitlab.com/emaxx-dotfiles/dots
+https://gitlab.com/emaxx-dotfiles/laptop-setup
+
+Vim dotfiles related things
+https://github.com/ThePrimeagen/init.lua
+https://github.com/nvim-lua/kickstart.nvim
+https://github.com/ThePrimeagen
+
+Tj's
+https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/
+
+https://github.com/lispyclouds/dotfiles
+
+MrHalzy
+https://git.sr.ht/~halzy/dotfiles/tree/main
+
+tscoding? I think
+https://github.com/rexim/dotfiles

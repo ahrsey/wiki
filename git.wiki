@@ -1,0 +1,16 @@
+Need to do a deepdive on cherrypick
+https://git-scm.com/docs/git-cherry-pick
+
+Merging without FF
+https://stackoverflow.com/questions/9069061/what-effect-does-the-no-ff-flag-have-for-git-merge
+https://nvie.com/posts/a-successful-git-branching-model/
+https://docs.gitlab.com/ee/user/project/merge_requests/methods/#merge-commit-with-semi-linear-history
+
+Fixing commits with git commit --fixup and git rebase --autosquash
+https://jordanelver.co.uk/blog/2020/06/04/fixing-commits-with-git-commit-fixup-and-git-rebase-autosquash/
+
+AVOID REBASE HELL: SQUASHING WITHOUT REBASING
+https://blog.oddbit.com/post/2019-06-17-avoid-rebase-hell-squashing-wi/
+
+Git Interactive Rebase, Squash, Amend and Other Ways of Rewriting History
+https://thoughtbot.com/blog/git-interactive-rebase-squash-amend-rewriting-history

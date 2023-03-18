@@ -2,6 +2,6 @@
 now=$(date)
 echo "$now"
 cd ~/vimwiki/
-git add -u
+git add -A
 git commit -m "daily updates - ${now}"
 git push --set-upstream origin main

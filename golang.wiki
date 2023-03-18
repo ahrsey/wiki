@@ -1,0 +1,18 @@
+📘️ Learn Go by fixing tiny incorrect programs
+https://github.com/soypat/gopherlings
+
+Awesome GO Education
+Go learning resources
+https://github.com/mehdihadeli/awesome-go-education/
+
+more things to learn about golang
+https://gobyexample.com/
+
+A Huge Number of Go Examples, Exercises and Quizzes
+https://github.com/inancgumus/learngo
+
+Go Backend Clean Architecture
+https://github.com/amitshekhariitbhu/go-backend-clean-architecture
+
+Go hackerrank certificate
+https://www.hackerrank.com/skills-directory/golang_basic

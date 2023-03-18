@@ -1,0 +1,24 @@
+"Functional Programming in JavaScript" by Cristian Salcesccu.
+
+https://www.barbarianmeetscoding.com/blog/exploring-vim-6-great-books-to-improve-your-vim-fu
+
+Zero To Production In Rust
+An introduction to backend development
+https://www.zero2prod.com/index.html?country=the%20UK&discount_code=VAT20
+
+Clean code notes
+I liked this as a concept to take notes for books I read
+https://github.com/JuanCrg90/Clean-Code-Notes
+
+https://www.amazon.com/gp/product/0134757599/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0134757599&linkCode=as2&tag=theprimeagen-20&linkId=0238d5b7aaf5070e808d28e43738b28e
+https://www.amazon.com/gp/product/0984782850/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0984782850&linkCode=as2&tag=theprimeagen-20&linkId=fb8d80c12980f31342f73dd56362d597
+https://www.amazon.com/gp/product/0321842685/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321842685&linkCode=as2&tag=theprimeagen-20&linkId=157efd70e4956987911c34c47dd6894c
+https://www.amazon.com/gp/product/1593272200/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593272200&linkCode=as2&tag=theprimeagen-20&linkId=9f1767bc40d089fd2a33c993677f7044
+
+https://build-your-own.org/redis/
+
+elements of programming
+http://elementsofprogramming.com/
+
+structure and interpretation of computer programs
+https://web.mit.edu/6.001/6.037/sicp.pdf

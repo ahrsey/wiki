@@ -1,0 +1,9 @@
+learn just enough perl
+http://mvp.kablamo.org/
+
+https://github.com/hachiojipm/awesome-perl
+http://perl-tutorial.org/
+https://perlmaven.com/perl-tutorial
+
+web scraping with perl
+https://www.scrapingbee.com/blog/web-scraping-perl/

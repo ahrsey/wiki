@@ -1,0 +1,6 @@
+Sample gITF Models webgl for loading in threejs
+https://github.com/KhronosGroup/glTF-Sample-Models
+
+Turbosquid
+3d models site
+https://www.turbosquid.com/

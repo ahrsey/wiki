@@ -1,0 +1,4 @@
+search for applications using fzf, kill processes and running applications and
+other things I use alfred for
+https://mariusschulz.com/blog/fast-searching-with-ripgrep
+https://sidneyliebrand.medium.com/how-fzf-and-ripgrep-improved-my-workflow-61c7ca212861

@@ -1,0 +1,39 @@
+= All algorithms implemented in Python - for education =
+https://github.com/TheAlgorithms/Python
+
+= Awesome python =
+https://github.com/vinta/awesome-python
+
+Python practice sites
+https://exercism.org/tracks/python/exercises
+https://www.hackinscience.org/exercises/
+https://www.practicepython.org/
+https://adventofcode.com/
+https://www.codewars.com/
+https://www.pythonmorsels.com/
+https://py.checkio.org/
+https://www.codingame.com/start
+https://codecombat.com/
+https://github.com/karan/Projects-Solutions
+https://github.com/practical-tutorials/project-based-learning#python
+https://inventwithpython.com/bigbookpython/
+https://www.manning.com/books/tiny-python-projects
+https://practicalpython.yasoob.me/toc.html
+
+Python books
+https://inventwithpython.com/bigbookpython/
+https://www.manning.com/books/tiny-python-projects
+https://practicalpython.yasoob.me/toc.html
+https://old.reddit.com/r/learnpython/comments/k5k1h0/what_do_you_automate_with_python_at_home/
+
+Algorithms in python
+https://github.com/TheAlgorithms/Python
+
+Idiomatic python code
+https://bas.codes/posts/idiomatic-python-code
+
+The Definitive Guide to Graph Problems python
+https://www.giulianopertile.com/blog/the-definitive-guide-to-graph-problems/
+
+Ultimate Flask Tutorial python flask
+https://www.docdroid.net/0GOZUFr/ultimate-flask-tutorial-2022-reddit-pdf

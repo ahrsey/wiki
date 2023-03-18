@@ -1,0 +1,11 @@
+Docker resources for learning
+https://docker-curriculum.com/#getting-started
+https://github.com/veggiemonk/awesome-docker
+
+Developing on Apple M1 Silicon with Virtual Environments
+https://medium.com/nerd-for-tech/developing-on-apple-m1-silicon-with-virtual-environments-4f5f0765fd2f
+
+Building x86_64 Docker Containers on Apple Silicon
+https://medium.com/swlh/building-x86-64-docker-containers-on-apple-silicon-a6d868a18f37
+
+https://binx.io/2022/06/23/how-to-run-intel-docker-images-on-mac-m1-using-lima/

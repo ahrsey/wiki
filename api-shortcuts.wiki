@@ -1,0 +1,6 @@
+Add my shortcuts for gitlab to a few bash scripts to make them work a bit better
+
+TODO
+Will need a way to persist data from calls
+Make calls in certain scenarios, eg branch changed
+Look into aws shortcuts as well to link to cloudformation and maybe other assets too 

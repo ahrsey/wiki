@@ -1,0 +1,21 @@
+Streams
+https://blog.logrocket.com/working-node-js-streams/
+https://www.npmjs.com/package/parallel-stream
+https://www.youtube.com/watch?v=rQXaDH__Suk
+https://www.youtube.com/watch?v=qU8PmZOOnac
+https://www.freecodecamp.org/news/node-js-streams-everything-you-need-to-know-c9141306be93/
+https://nodesource.com/blog/understanding-streams-in-nodejs/
+https://css-tricks.com/web-streams-everywhere-and-fetch-for-node-js/
+
+Event emitter
+https://www.digitalocean.com/community/tutorials/using-event-emitters-in-node-js
+https://codeburst.io/basics-of-events-streams-and-pipe-in-node-js-b84578c2f1be
+
+Node.js CLI Apps Best Practices
+https://github.com/lirantal/nodejs-cli-apps-best-practices
+
+= Optimization killers =
+https://github.com/petkaantonov/bluebird/wiki/Optimization-killers
+
+Use this to explore examples to TUI apps in node
+https://github.com/sindresorhus/awesome-nodejs

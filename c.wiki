@@ -1,0 +1,70 @@
+https://www.learn-c.org/
+https://learnxinyminutes.com/docs/c/
+https://buildyourownlisp.com/chapter5_languages
+https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi
+https://faultlore.com/blah/c-isnt-a-language/
+
+
+https://gist.github.com/eatonphil/21b3d6569f24ad164365
+https://www.recurse.com/blog/5-learning-c-with-gdb
+
+https://hero.handmade.network/episode/code
+
+pointers tut
+https://pdos.csail.mit.edu/6.828/2017/readings/pointers.pdf
+
+functions in c
+https://gist.github.com/eatonphil/21b3d6569f24ad164365
+
+malloc tut
+https://danluu.com/malloc-tutorial/
+
+http without libcurl
+https://stackoverflow.com/questions/11208299/how-to-make-an-http-get-request-in-c-without-libcurl
+https://gist.github.com/nolim1t/126991
+https://aticleworld.com/http-get-and-post-methods-example-in-c/
+
+documents
+https://devdocs.io/c/io/fprintf
+
+libcurl - this looks great
+https://curl.se/libcurl/c/example.html
+
+Beginning Game Programming v2.0
+sdl for game programming
+https://lazyfoo.net/tutorials/SDL/
+
+
+https://en.wikibooks.org/wiki/C_Programming
+https://gist.github.com/eatonphil/21b3d6569f24ad164365
+
+memcpy vs memmove
+https://web.archive.org/web/20170620131430/https://www.tedunangst.com/flak/post/memcpy-vs-memmove
+
+memory 
+https://marek.vavrusa.com/memory/
+
+learn c 
+https://www.learn-c.org/
+http://www.crasseux.com/books/ctut.pdf
+
+How to program a text adventure in C
+https://helderman.github.io/htpataic/htpataic01.html
+
+performance measuring in c
+https://pspdfkit.com/blog/2020/how-to-effectively-measure-performance-code/
+
+
+Found some cool articles on design patterns and data types in c, should
+check them out
+https://www.adamtornhill.com/articles.htm
+https://codeforwin.org/data-structures/singly-linked-list-data-structure-in-c
+
+Templating in c
+http://blog.pkh.me/p/20-templating-in-c.html
+
+The Algorithms - C
+https://github.com/TheAlgorithms/C
+
+Duff's device
+https://en.wikipedia.org/wiki/Duff%27s_device

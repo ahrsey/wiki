@@ -1,0 +1,10 @@
+Terraform aws cognito
+https://articles.epiphyte.io/cognito-user-pool-with-terraform-4b28e2ee311
+https://github.com/search?q=aws+terraform+examples&type=Repositories
+https://medium.com/@klaus.dobbler/getting-started-with-terraform-and-aws-reusable-template-repository-from-scratch-67e92a50603
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/launch_template
+https://aws.amazon.com/blogs/containers/aws-proton-terraform-templates/
+https://github.com/aws-samples/aws-proton-terraform-sample-templates
+https://spacelift.io/blog/terraform-templates
+https://articles.epiphyte.io/cognito-user-pool-with-terraform-4b28e2ee311
+https://registry.terraform.io/providers/hashicorp/null/latest/docs/resources/resource

@@ -1,0 +1,2 @@
+Create a cli tool that uses an interactive interface to generate terraform aws resources
+
