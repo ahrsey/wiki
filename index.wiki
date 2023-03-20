@@ -125,3 +125,9 @@ https://the-algorithms.com/
 
 ts-reset
 https://github.com/total-typescript/ts-reset
+
+blogs to check out
+https://draft.dev/learn/engineering-blogs
+
+cacheing
+https://blog.bytebytego.com/p/a-crash-course-in-caching-part-1
