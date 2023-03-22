@@ -249,3 +249,45 @@ https://www.codewars.com/
 
 = Dredd =
 https://github.com/apiaryio/dredd
+
+Thinkpad buyers guide, for my next linux laptop
+https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide
+
+Vim tricks
+https://vimtricks.com/p/category/tips-and-tricks/
+
+starship prompt
+https://starship.rs/
+
+blog
+https://jovica.org/posts/
+
+zod
+https://github.com/colinhacks/zod
+
+json resume
+https://jsonresume.org/
+
+Critical thinking cheatsheet
+https://am.aals.org/wp-content/uploads/sites/4/2020/01/AM20LawMedicineHealthPovertyPierson-BrownGraphics.pdf
+
+gitea
+alternative to github I think
+https://gitea.io/en-us/
+
+blogs
+https://matklad.github.io/
+https://matklad.github.io/2023/01/26/rusts-ugly-syntax.html
+
+vale.sh
+linting for blog posts?
+https://vale.sh/
+
+Investigate this sst for aws
+https://sst.dev/
+
+ts-reset
+https://github.com/total-typescript/ts-reset
+
+blogs to check out
+https://draft.dev/learn/engineering-blogs

@@ -91,3 +91,15 @@ https://ebookfoundation.github.io/
 = Algorithms =
 https://www.algorithm-archive.org/
 https://github.com/trekhleb/javascript-algorithms
+
+system design master template
+https://levelup.gitconnected.com/system-design-master-template-how-to-answer-any-system-design-interview-question-ee5dc332acd5
+
+System Design Interview preparation
+https://leetcode.com/discuss/career/229177/My-System-Design-Template
+
+Levenshtein distance
+https://en.wikipedia.org/wiki/Levenshtein_distance
+
+algorithms
+https://the-algorithms.com/

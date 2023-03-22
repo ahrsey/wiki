@@ -9,3 +9,6 @@ Building x86_64 Docker Containers on Apple Silicon
 https://medium.com/swlh/building-x86-64-docker-containers-on-apple-silicon-a6d868a18f37
 
 https://binx.io/2022/06/23/how-to-run-intel-docker-images-on-mac-m1-using-lima/
+
+Docker on node
+https://dev.to/davydocsurg/mastering-docker-for-nodejs-advanced-techniques-and-best-practices-55m9
