@@ -68,3 +68,22 @@ https://github.com/TheAlgorithms/C
 
 Duff's device
 https://en.wikipedia.org/wiki/Duff%27s_device
+
+essential c
+http://cslibrary.stanford.edu/101/EssentialC.pdf
+http://cslibrary.stanford.edu/101/
+
+https://gitconnected.com/learn/c
+
+advanced linux programming
+http://www.cse.hcmut.edu.vn/~hungnq/courses/nap/alp.pdf
+
+interactive c learning
+https://www.learn-c.org/
+
+http://markburgess.org/CTutorial/GNU-ctut.pdf
+
+https://www.decodeschool.com/Problem-Solving/full-text
+
+Building self compiling c compiler in c
+https://github.com/DoctorWkt/acwj
