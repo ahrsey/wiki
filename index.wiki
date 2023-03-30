@@ -39,3 +39,6 @@ https://build-your-own.org/redis/
 
 vim for c
 https://www.linuxjournal.com/magazine/vim-c-programmers
+
+electrodb
+https://github.com/tywalch/electrodb
