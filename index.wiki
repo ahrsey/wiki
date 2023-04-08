@@ -29,6 +29,7 @@ Setup mutt
 http://www.mutt.org/
 
 turn this into a function 
+this gets a diff list of files from main/master and opens them
 $ vim $(git diff --name-only CREO-3922 $(git merge-base CREO-3922 main))
 
 look into signing commits

@@ -1,0 +1,37 @@
+= VIM Fugitive =
+[cheatsheet vim]
+- https://cheatography.com/jennings/cheat-sheets/vim-fugitive/
+
+= Snippets =
+[nvim]
+Need to checkout snippets how these work
+https://github.com/L3MON4D3/LuaSnip/blob/master/DOC.md
+
+= Dap =
+[nvim plugin]
+Need to check these out, breakpoint debugging in vim should be pretty cool, but
+maybe won't work in aws serverless
+- https://github.com/rcarriga/nvim-dap-ui
+- https://github.com/mfussenegger/nvim-dap
+
+= Some nvim plugins for inspiration =
+https://morioh.com/p/a7063de46490
+https://github.com/RishabhRD/nvim-lsputils?ref=morioh.com&utm_source=morioh.com
+https://github.com/weilbith/nvim-code-action-menu
+https://github.com/anott03/nvim-lspinstall
+https://github.com/alexaandru/nvim-lspupdate
+
+Investigate :g :global a bit more, super powerful
+https://vim.fandom.com/wiki/Power_of_g
+
+Vimwiki Command-Line Interface
+https://pypi.org/project/vimwiki-cli/
+
+Blog with some stuff about VIM
+https://freshman.tech/vim-quickfix-and-location-list/
+
+[[Some]] things on vim-fugitive
+http://vimcasts.org/episodes/fugitive-vim---a-complement-to-command-line-git/
+
+Syncing vimwiki notes for updates on the move
+https://old.reddit.com/r/vim/comments/fesy87/vimwiki_on_the_move/

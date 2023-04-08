@@ -1,12 +1,7 @@
-= Trpc =
-https://trpc.io/
+[[vim/nvim]]
 
 = Graphql =
 https://formidable.com/open-source/urql/
-
-= VIM Fugitive =
-[cheatsheet vim]
-- https://cheatography.com/jennings/cheat-sheets/vim-fugitive/
 
 = Chalice =
 [aws]
@@ -17,33 +12,11 @@ https://carbon.now.sh/
 
 = Soketi =
 Just another simple, fast, and resilient open-source WebSockets server. 📣
-https://github.com/soketi/soketi
-
-= Snippets =
-[nvim]
-Need to checkout snippets how these work
-https://github.com/L3MON4D3/LuaSnip/blob/master/DOC.md
-
-= Dap =
-[nvim plugin]
-Need to check these out, breakpoint debugging in vim should be pretty cool, but
-maybe won't work in aws serverless
-- https://github.com/rcarriga/nvim-dap-ui
-- https://github.com/mfussenegger/nvim-dap
+https://github.com/soketi/soketil
 
 Architect is a simple framework for building and delivering powerful Functional
 Web Apps (FWAs) on AWS
 https://arc.codes/docs/en/get-started/quickstart
-
-Advanced motions plugin for vim
-https://github.com/ggandor/leap.nvim
-
-= Some nvim plugins for inspiration =
-https://morioh.com/p/a7063de46490
-https://github.com/RishabhRD/nvim-lsputils?ref=morioh.com&utm_source=morioh.com
-https://github.com/weilbith/nvim-code-action-menu
-https://github.com/anott03/nvim-lspinstall
-https://github.com/alexaandru/nvim-lspupdate
 
 = Git worktrees =
 - https://www.youtube.com/watch?v=2uEqYw-N8uE
@@ -123,9 +96,6 @@ https://www.blinkist.com/
 Open Source realtime backend in, go golang
 https://github.com/pocketbase/pocketbase
 
-Investigate :g :global a bit more, super powerful
-https://vim.fandom.com/wiki/Power_of_g
-
 = Navi =
 An interactive cheatsheet tool for the command-line.
 https://github.com/denisidoro/navi
@@ -144,16 +114,6 @@ https://beabetterdev.com/
 Serverless application patterns
 https://serverlessland.com/
 
-Vimwiki Command-Line Interface
-https://pypi.org/project/vimwiki-cli/
-
-Blog with some stuff about VIM
-https://freshman.tech/vim-quickfix-and-location-list/
-
-Vimspector A multi language graphical debugger for VIM
-https://dev.to/iggredible/debugging-in-vim-with-vimspector-4n0m
-https://github.com/puremourning/vimspector
-
 Make your first contribution in open source
 https://github.com/firstcontributions/first-contributions
 
@@ -170,14 +130,8 @@ https://github.com/danielgatis/rembg
 A set of best practices for JavaScript projects
 https://github.com/elsewhencode/project-guidelines
 
-[[Some]] things on vim-fugitive
-http://vimcasts.org/episodes/fugitive-vim---a-complement-to-command-line-git/
-
 Public apis
 https://github.com/public-apis/public-apis
-
-Syncing vimwiki notes for updates on the move
-https://old.reddit.com/r/vim/comments/fesy87/vimwiki_on_the_move/
 
 = Vite =
 Next Generation Frontend Tooling
