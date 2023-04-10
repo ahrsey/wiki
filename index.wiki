@@ -46,3 +46,6 @@ https://github.com/tywalch/electrodb
 
 lldb to gdb map
 https://lldb.llvm.org/use/map.html
+
+libc - bootstrapping libc with newlib from 2019
+https://interrupt.memfault.com/blog/boostrapping-libc-with-newlib
