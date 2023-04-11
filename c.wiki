@@ -87,3 +87,5 @@ https://www.decodeschool.com/Problem-Solving/full-text
 
 Building self compiling c compiler in c
 https://github.com/DoctorWkt/acwj
+
+http://blog.pkh.me/p/20-templating-in-c.html
