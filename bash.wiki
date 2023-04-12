@@ -10,3 +10,11 @@ https://linuxize.com/post/bash-select/
 
 Bash cheatsheet
 https://bertvv.github.io/cheat-sheets/Bash.html
+
+Script to learn from
+https://github.com/xkcd386at/scripts/blob/master/fclone
+
+bashbar
+https://github.com/wick3dr0se/bashbar
+
+https://levelup.gitconnected.com/5-bash-string-manipulation-methods-that-help-every-developer-49d4ee38b593
