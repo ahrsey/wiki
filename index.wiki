@@ -51,3 +51,6 @@ libc - bootstrapping libc with newlib from 2019
 https://interrupt.memfault.com/blog/boostrapping-libc-with-newlib
 
 checkout stagemanager for better workspace management without animation
+
+htmx
+https://htmx.org/
