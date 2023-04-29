@@ -54,3 +54,7 @@ checkout stagemanager for better workspace management without animation
 
 htmx
 https://htmx.org/
+
+replicache
+https://replicache.dev/
+
