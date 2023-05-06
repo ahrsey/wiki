@@ -15,3 +15,4 @@
 [[terraform-generator]]
 [[tui application launcher]]
 [[api-shortcuts]]
+reimplement some aws stuff

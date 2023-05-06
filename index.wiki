@@ -58,3 +58,5 @@ https://htmx.org/
 replicache
 https://replicache.dev/
 
+maybe worth checking this out
+https://github.com/nvim-treesitter/nvim-treesitter-context
