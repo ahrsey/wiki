@@ -8,3 +8,6 @@ https://github.com/aws-samples/aws-proton-terraform-sample-templates
 https://spacelift.io/blog/terraform-templates
 https://articles.epiphyte.io/cognito-user-pool-with-terraform-4b28e2ee311
 https://registry.terraform.io/providers/hashicorp/null/latest/docs/resources/resource
+
+Terraforms etup for aws s3 has event notifications
+https://betterprogramming.pub/terraform-setup-for-using-aws-lambda-with-s3-2b8ba286b6d7
