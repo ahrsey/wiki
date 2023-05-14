@@ -60,3 +60,8 @@ https://replicache.dev/
 
 maybe worth checking this out
 https://github.com/nvim-treesitter/nvim-treesitter-context
+
+learning the text-objects 
+https://vi.stackexchange.com/questions/11101/does-dap-delete-everything
+
+update install script with gnu-sed
