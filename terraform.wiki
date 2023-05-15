@@ -11,3 +11,12 @@ https://registry.terraform.io/providers/hashicorp/null/latest/docs/resources/res
 
 Terraforms etup for aws s3 has event notifications
 https://betterprogramming.pub/terraform-setup-for-using-aws-lambda-with-s3-2b8ba286b6d7
+
+AWS Lambda the Terraform Way
+https://github.com/nsriram/lambda-the-terraform-way
+
+How to Manage AWS Lambda Functions with Terraform: Tutorial
+https://spacelift.io/blog/terraform-aws-lambda
+
+awesome terraform list
+https://github.com/shuaibiyy/awesome-terraform#boilerplates

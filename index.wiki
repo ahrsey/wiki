@@ -65,3 +65,7 @@ learning the text-objects
 https://vi.stackexchange.com/questions/11101/does-dap-delete-everything
 
 update install script with gnu-sed
+
+= things to investigate =
+script tags nonce
+cache control
