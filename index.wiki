@@ -69,3 +69,9 @@ update install script with gnu-sed
 = things to investigate =
 script tags nonce
 cache control
+
+to check out
+https://www.hetzner.com/
+
+Writing a Simple Garbage Collector in C
+https://maplant.com/gc.html
