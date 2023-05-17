@@ -75,3 +75,5 @@ https://www.hetzner.com/
 
 Writing a Simple Garbage Collector in C
 https://maplant.com/gc.html
+
+https://docs.codeberg.org/improving-codeberg/#contribute-to-codeberg
