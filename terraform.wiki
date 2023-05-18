@@ -20,3 +20,9 @@ https://spacelift.io/blog/terraform-aws-lambda
 
 awesome terraform list
 https://github.com/shuaibiyy/awesome-terraform#boilerplates
+
+https://github.com/nsriram/lambda-the-terraform-way
+
+https://lepczynski.it/en/aws_en/how-to-create-iam-policy-and-iam-role-in-terraform-3-ways-2022/
+
+https://terrateam.io/blog/aws-lambda-function-with-terraform
