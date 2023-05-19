@@ -77,3 +77,10 @@ Writing a Simple Garbage Collector in C
 https://maplant.com/gc.html
 
 https://docs.codeberg.org/improving-codeberg/#contribute-to-codeberg
+
+Check out way of the crab for togglebit
+https://wayofthecrab.com/
+
+Rust borrow checker deep dive
+https://www.infoq.com/presentations/rust-borrow-checker/
+https://blog.logrocket.com/introducing-the-rust-borrow-checker/
