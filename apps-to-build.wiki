@@ -16,3 +16,4 @@
 [[tui application launcher]]
 [[api-shortcuts]]
 reimplement some aws stuff
+[[static document generator]]

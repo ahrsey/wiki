@@ -1,0 +1,36 @@
+= Blog concepts =
+== basic markdown parser ==
+
+Implement basic markdown parser, starting with only a single element as a
+platform for other additions later
+
+== routes to html pages ==
+
+File based structure generation, the following structure should create an html
+page at do.main/page.html
+
+└── pages
+			└── page.md
+
+== shared values piped into html pages ==
+Need a way to store global values shared across pages generated, like site
+title or metadata.
+
+But instead of doing this we could simply have static html page that has the
+values hardcoded that wrap the other pages.
+
+Maybe I can use the scaffolding functionality to create reusable parts 
+
+== generator / scaffolder for generating common structures ==
+I had this idea to create kind of generators for common components.
+
+create page generator
+- generates the structure specified for a new markdown page with defaults prefilled
+
+This would be the basic concept, but I was thinking this could also be used to
+create other generic structures that are referenced inside the markdown pages
+or layout pages.
+
+TODO
+- md to html
+- wrap html generated with general layout

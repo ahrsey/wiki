@@ -84,3 +84,11 @@ https://wayofthecrab.com/
 Rust borrow checker deep dive
 https://www.infoq.com/presentations/rust-borrow-checker/
 https://blog.logrocket.com/introducing-the-rust-borrow-checker/
+
+
+Idea, blog with algorithms and data types
+
+compilers, interpreter, assembler
+- https://www.bbc.co.uk/bitesize/guides/zmthsrd/revision/1#:~:text=An%20interpreter%20translates%20source%20code,The%20process%20is%20called%20interpretation%20.
+- https://medium.com/swlh/entry-level-compiler-ba7e91cffbb2
+- https://medium.com/swlh/entry-level-compiler-ba7e91cffbb2
