@@ -9,6 +9,8 @@
 [[wallpapers]]
 [[electronics]]
 
+[[fuck the future]]
+
 https://github.com/challenger-deep-theme/themes
 
 Find duplicate lines in file
@@ -92,3 +94,8 @@ compilers, interpreter, assembler
 - https://www.bbc.co.uk/bitesize/guides/zmthsrd/revision/1#:~:text=An%20interpreter%20translates%20source%20code,The%20process%20is%20called%20interpretation%20.
 - https://medium.com/swlh/entry-level-compiler-ba7e91cffbb2
 - https://medium.com/swlh/entry-level-compiler-ba7e91cffbb2
+
+Vim command
+prints the output of command directly into current buffer, super interesting
+
+also somet
