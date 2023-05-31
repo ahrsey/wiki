@@ -1,3 +1,5 @@
+where my idea's go to die
+
 [[Programming]]
 [[aws]]
 [[apps-to-build]]
@@ -98,4 +100,13 @@ compilers, interpreter, assembler
 Vim command
 prints the output of command directly into current buffer, super interesting
 
-also somet
+jq cookbook, holy shit
+https://github.com/stedolan/jq/wiki/Cookbook#filter-objects-based-on-the-contents-of-a-key
+
+planet scale
+https://planetscale.com/
+
+open source firebase alternative
+https://supabase.com/
+
+https://www.ibm.com/topics/etl#:~:text=ETL%20is%20a%20process%20that,or%20other%20unified%20data%20repository
