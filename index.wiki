@@ -110,3 +110,6 @@ open source firebase alternative
 https://supabase.com/
 
 https://www.ibm.com/topics/etl#:~:text=ETL%20is%20a%20process%20that,or%20other%20unified%20data%20repository
+
+
+fend
