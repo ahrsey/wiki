@@ -45,3 +45,6 @@ https://markodenic.com/free-certifications-for-developers/
 
 Project Euler
 https://projecteuler.net/archives
+
+machine learning courses
+https://github.com/microsoft/AI-For-Beginners
