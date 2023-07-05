@@ -1,0 +1,30 @@
+= Concept =
+
+I want to be able to have groups of links for each ticket/job that I can select
+from based on the work I'm doing.
+
+= Example =
+
+If I'm working on a ticket about X, then I can store files related to X which I
+can rerun and open automatically as vim buffers.
+
+= Thoughts =
+
+It shouldn't be hard to create scripts with some `rg`, but `where would I store
+these?` 
+
+Maybe I could `tag` searches. `search cdk` will return all cdk related
+assets, or `search v2` for settlement-v2, or `search infrastructure`
+
+Currently what I'm thinking is it might be cool to be able to tag certain files and store them for later retrival
+
+= Concept =
+
+Store/add files to named `tag`
+`rg 'tag' --files | search tag`
+
+Edit files in `tag`. Displays files in tag for removal?
+`search tag --edit`
+
+Open saved files in vim
+`search tag | vim`

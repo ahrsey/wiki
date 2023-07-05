@@ -17,6 +17,7 @@
 [[api-shortcuts]]
 reimplement some aws stuff
 [[static document generator]]
+[[project-links]]
 
 documentation validation tool
 something that checks how similar two articles or bodies of work are
