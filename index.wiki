@@ -113,3 +113,9 @@ https://www.ibm.com/topics/etl#:~:text=ETL%20is%20a%20process%20that,or%20other%
 
 background image in kitty  
 https://sw.kovidgoyal.net/kitty/conf/#opt-kitty.background_image
+
+open source pay scheme type of things
+https://opencollective.com/
+
+oha
+https://github.com/hatoo/oha
