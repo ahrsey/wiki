@@ -119,3 +119,7 @@ https://opencollective.com/
 
 oha
 https://github.com/hatoo/oha
+
+quickfix
+https://vimways.org/2018/colder-quickfix-lists/
+https://vimhelp.org/quickfix.txt.html
