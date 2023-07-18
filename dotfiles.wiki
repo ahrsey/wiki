@@ -20,3 +20,5 @@ https://git.sr.ht/~halzy/dotfiles/tree/main
 
 tscoding? I think
 https://github.com/rexim/dotfiles
+
+https://github.com/phelipetls/dotfiles/blob/master/.config/nvim/compiler/flake8.vim

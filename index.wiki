@@ -123,3 +123,10 @@ https://github.com/hatoo/oha
 quickfix
 https://vimways.org/2018/colder-quickfix-lists/
 https://vimhelp.org/quickfix.txt.html
+
+jest-simple-reporter
+https://github.com/richchurcher/jest-simple-reporter
+
+maybe should investigate this too
+https://github.com/neomake/neomake
+https://phelipetls.github.io/posts/async-make-in-nvim-with-lua/
