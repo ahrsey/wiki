@@ -130,3 +130,6 @@ https://github.com/richchurcher/jest-simple-reporter
 maybe should investigate this too
 https://github.com/neomake/neomake
 https://phelipetls.github.io/posts/async-make-in-nvim-with-lua/
+
+quickfix related things
+https://github.com/ten3roberts/qf.nvim/blob/main/lua/qf.lua
