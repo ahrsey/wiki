@@ -1,0 +1,3 @@
+look into optimising performance and measuring benchmarks in node
+
+also would like to look into ffi for c and node

@@ -20,3 +20,6 @@ reimplement some aws stuff
 [[project-links]]
 
 [[documentation validation tool]]
+[[installing-missing]]
+[[http-caching-servers]]
+[[performance]]

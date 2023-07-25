@@ -1,0 +1,4 @@
+Wanted to do some poc's of different http best practices, streaming data,
+websockets. Different http's. 
+
+- How to make a http server with tcp

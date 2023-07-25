@@ -1,0 +1,7 @@
+check if packages are missing and installs them
+using brew and other package managers
+if the exact package isnt found, display output
+
+missing
+instal
+absent
