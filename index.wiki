@@ -133,3 +133,6 @@ https://phelipetls.github.io/posts/async-make-in-nvim-with-lua/
 
 quickfix related things
 https://github.com/ten3roberts/qf.nvim/blob/main/lua/qf.lua
+
+to checkout
+https://github.com/charmbracelet/charm
