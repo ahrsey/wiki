@@ -136,3 +136,8 @@ https://github.com/ten3roberts/qf.nvim/blob/main/lua/qf.lua
 
 to checkout
 https://github.com/charmbracelet/charm
+
+look into showing todos and notifications when opening a new terminal when I
+work on my notification app
+
+turn on spell checking for markdown and other writing files
