@@ -141,3 +141,7 @@ look into showing todos and notifications when opening a new terminal when I
 work on my notification app
 
 turn on spell checking for markdown and other writing files
+
+https://github.com/oz123/awesome-c#learning-reference-and-tutorials
+
+https://nullprogram.com/blog/2017/08/20/
