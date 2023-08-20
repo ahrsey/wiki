@@ -17,6 +17,7 @@
 [[rust]]
 [[perl]]
 [[c]]
+[[sqlite]]
 
 Project Based Learning
 A list of programming tutorials in which aspiring software developers learn how to build an application from scratch.

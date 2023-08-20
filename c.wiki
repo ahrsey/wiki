@@ -89,3 +89,6 @@ Building self compiling c compiler in c
 https://github.com/DoctorWkt/acwj
 
 http://blog.pkh.me/p/20-templating-in-c.html
+
+https://github.com/oz123/awesome-c#learning-reference-and-tutorials
+https://nullprogram.com/blog/2017/08/20/

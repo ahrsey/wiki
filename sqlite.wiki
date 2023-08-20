@@ -1,0 +1,5 @@
+= Preformance =
+https://blog.devart.com/increasing-sqlite-performance.html
+
+https://www.sqlite.org/lang_transaction.html
+https://www.sqlite.org/faq.html#q19
