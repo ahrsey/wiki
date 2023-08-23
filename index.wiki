@@ -144,3 +144,5 @@ turn on spell checking for markdown and other writing files
 
 searching buffers
 https://stackoverflow.com/questions/843602/vim-how-can-i-search-buffers
+
+http://www.robertgamble.net/2012/01/c11-generic-selections.html
