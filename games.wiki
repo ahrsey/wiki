@@ -1,0 +1,5 @@
+Simple Intersection Tests For Games
+https://www.gamedeveloper.com/disciplines/simple-intersection-tests-for-games
+
+INTERSECTION TESTS IN 2D
+https://noonat.github.io/intersect/

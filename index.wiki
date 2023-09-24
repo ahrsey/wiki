@@ -151,3 +151,6 @@ https://en.wikipedia.org/wiki/Boolean_algebra
 
 idiomorph
 https://github.com/bigskysoftware/idiomorph
+
+test framework
+https://coursework.vschool.io/how-to-make-your-own-testing-framework/
