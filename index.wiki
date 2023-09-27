@@ -154,3 +154,54 @@ https://github.com/bigskysoftware/idiomorph
 
 test framework
 https://coursework.vschool.io/how-to-make-your-own-testing-framework/
+
+unit testing in c
+https://gist.github.com/ngocviet-sublime-gist/5046448
+https://interrupt.memfault.com/blog/unit-testing-basics
+
+```c
+#include <stdio.h>
+
+#define ASSERT_TRUE(condition) \
+    do { \
+        if (!(condition)) { \
+            printf("Assertion failed: %s, file %s, line %d\n", #condition, __FILE__, __LINE__); \
+        } \
+    } while (0)
+
+#define ASSERT_FALSE(condition) ASSERT_TRUE(!(condition))
+
+#define ASSERT_EQUAL(expected, actual) \
+    do { \
+        if ((expected) != (actual)) { \
+            printf("Assertion failed: %s != %s, file %s, line %d\n", #expected, #actual, __FILE__, __LINE__); \
+        } \
+    } while (0)
+
+#define ASSERT_NOT_EQUAL(not_expected, actual) \
+    do { \
+        if ((not_expected) == (actual)) { \
+            printf("Assertion failed: %s == %s, file %s, line %d\n", #not_expected, #actual, __FILE__, __LINE__); \
+        } \
+    } while (0)
+
+#define RUN_TEST(test_function) \
+    do { \
+        printf("Running test: %s\n", #test_function); \
+        test_function(); \
+        printf("Test complete: %s\n", #test_function); \
+    } while (0)
+
+// Example test function
+void test_addition() {
+    ASSERT_EQUAL(5, 2 + 3);
+}
+
+int main() {
+    RUN_TEST(test_addition);
+    return 0;
+}
+```
+
+other macros
+https://www.cs.yale.edu/homes/aspnes/pinewiki/C(2f)Macros.html
