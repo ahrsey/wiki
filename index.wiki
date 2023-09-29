@@ -205,3 +205,6 @@ int main() {
 
 other macros
 https://www.cs.yale.edu/homes/aspnes/pinewiki/C(2f)Macros.html
+
+81795093
+RJ4GQJ6D29PDPK52
