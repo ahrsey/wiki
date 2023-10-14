@@ -92,3 +92,15 @@ http://blog.pkh.me/p/20-templating-in-c.html
 
 https://github.com/oz123/awesome-c#learning-reference-and-tutorials
 https://nullprogram.com/blog/2017/08/20/
+
+lldb to gdb
+https://lldb.llvm.org/use/map.html
+
+simple-hashmap-in-c
+https://codereview.stackexchange.com/questions/253468/simple-hashmap-in-c
+
+clang format
+https://clang.llvm.org/docs/ClangFormat.html
+
+baby's first gc
+https://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/

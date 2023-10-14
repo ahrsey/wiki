@@ -18,8 +18,10 @@
 reimplement some aws stuff
 [[static document generator]]
 [[project-links]]
+[[lsp-command-line]]
 
 [[documentation validation tool]]
 [[installing-missing]]
 [[http-caching-servers]]
 [[performance]]
+

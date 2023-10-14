@@ -1,0 +1,3 @@
+I thought it might be cool if I can get lsp working with language servers from the command line, so I can pull the lsp out of vim.
+
+The most important thing here is to be able to run code actions, so there might be an interactive prompt for solving issues found via lsp code actions
