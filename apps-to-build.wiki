@@ -19,6 +19,7 @@ reimplement some aws stuff
 [[static document generator]]
 [[project-links]]
 [[lsp-command-line]]
+[[git-diff-executions]]
 
 [[documentation validation tool]]
 [[installing-missing]]

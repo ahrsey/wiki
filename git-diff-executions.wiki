@@ -1,0 +1,3 @@
+Diff only the changed data from git files and run them through linting etc and update
+
+Kind of like incremenetal diff build, but generic
