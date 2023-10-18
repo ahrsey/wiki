@@ -211,3 +211,5 @@ https://www.cs.yale.edu/homes/aspnes/pinewiki/C(2f)Macros.html
 RJ4GQJ6D29PDPK52
 
 https://learnopengl.com/Getting-started/Shaders#:~:text=Getting%2Dstarted%2FShaders,programs%20transforming%20inputs%20to%20outputs.
+
+https://github.com/fffaraz/awesome-cpp#talks
