@@ -213,3 +213,7 @@ RJ4GQJ6D29PDPK52
 https://learnopengl.com/Getting-started/Shaders#:~:text=Getting%2Dstarted%2FShaders,programs%20transforming%20inputs%20to%20outputs.
 
 https://github.com/fffaraz/awesome-cpp#talks
+
+checkout this game
+https://www.spiderwebsoftware.com/exile/winexile.html
+
