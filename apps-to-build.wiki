@@ -20,6 +20,7 @@ reimplement some aws stuff
 [[project-links]]
 [[lsp-command-line]]
 [[git-diff-executions]]
+[[business-card]]
 
 [[documentation validation tool]]
 [[installing-missing]]

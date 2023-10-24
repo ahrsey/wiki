@@ -1,0 +1,11 @@
+Application will take an array of text.
+
+Each text item will be rendered an equal distance on a globe that simulates gravity. 
+
+Camera will start on first section of text and will on zoom move the camera and
+rotate the globe to create the affect of moving towards next section of text
+through the air.
+
+And that's it.
+
+Was thinking to do first examples with three.js because that'll be easier.

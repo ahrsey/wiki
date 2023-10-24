@@ -219,3 +219,17 @@ https://www.spiderwebsoftware.com/exile/winexile.html
 
 Tower of Hanoi
 https://en.wikipedia.org/wiki/Tower_of_Hanoi
+
+https://www.cbyexample.com/#integer-promotion
+
+
+readmes
+https://towardsdev.com/when-and-where-to-use-pointers-in-go-7e89643a2c9
+
+go markdown
+https://blog.kowalczyk.info/article/cxn3/advanced-markdown-processing-in-go.html
+https://github.com/avelino/awesome-go
+https://betterstack.com/community/guides/logging/logging-in-go/
+https://golang50shad.es/
+https://snipcart.com/blog/golang-ecommerce-ponzu-cms-demo?utm_term=golang-ecommerce-ponzu-cms-demo
+https://github.com/shubhamzanwar/design-patterns
