@@ -21,6 +21,7 @@ reimplement some aws stuff
 [[lsp-command-line]]
 [[git-diff-executions]]
 [[business-card]]
+[[recent-files]]
 
 [[documentation validation tool]]
 [[installing-missing]]

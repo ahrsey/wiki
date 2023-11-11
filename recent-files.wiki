@@ -1,0 +1,2 @@
+Push files into list, and have like a cache of the 10 most common files used
+used underneath current directory
