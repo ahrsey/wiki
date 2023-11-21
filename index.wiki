@@ -236,3 +236,17 @@ https://github.com/shubhamzanwar/design-patterns
 
 check this out 
 https://stacked-git.github.io/
+
+podcasts to checkout
+https://www.bsdnow.tv/
+https://www.jupiterbroadcasting.com/
+https://xmpp.org/
+
+paper on naming
+https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1046&context=ecis2003
+
+container numbers
+https://www.container-xchange.com/blog/container-number/
+
+Netflix and FreeBSD Using Open Source to Deliver Streaming Video
+https://www.youtube.com/watch?v=vcyQBup-Gto

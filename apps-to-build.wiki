@@ -22,6 +22,7 @@ reimplement some aws stuff
 [[git-diff-executions]]
 [[business-card]]
 [[recent-files]]
+[[confluece-to-text]]
 
 [[documentation validation tool]]
 [[installing-missing]]
