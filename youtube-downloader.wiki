@@ -1,0 +1,7 @@
+@smilingbig i just export a playlist and put the link in a list and have yt-dlp pull the lists, so i can listen/watch while "not online"
+
+I think all I'd need is what videos I've watched and something to keep track of where I am in a video,
+
+but who cares I guess, I was thinking of just building something small to keep track of what youtube videos I've watched and let me download them hmm not sure if I can download without an account
+
+@shaterpalette: bard is honestly pretty good at searching YT for you

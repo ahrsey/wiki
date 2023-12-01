@@ -23,6 +23,7 @@ reimplement some aws stuff
 [[business-card]]
 [[recent-files]]
 [[confluece-to-text]]
+[[youtube-downloader]]
 
 [[documentation validation tool]]
 [[installing-missing]]
