@@ -24,6 +24,7 @@ reimplement some aws stuff
 [[recent-files]]
 [[confluece-to-text]]
 [[youtube-downloader]]
+[[general-profile]]
 
 [[documentation validation tool]]
 [[installing-missing]]

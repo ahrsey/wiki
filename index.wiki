@@ -1,5 +1,8 @@
 where idea go to die
 
+templates
+overloading for vector math
+
 [[Programming]]
 [[aws]]
 [[apps-to-build]]
