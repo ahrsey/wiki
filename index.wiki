@@ -255,3 +255,6 @@ Netflix and FreeBSD Using Open Source to Deliver Streaming Video
 https://www.youtube.com/watch?v=vcyQBup-Gto
 
 Setup permanant history
+
+lets look into documenting issues I encounter at work, might be useful to
+create some resolution file
