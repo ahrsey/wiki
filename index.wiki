@@ -258,3 +258,5 @@ Setup permanant history
 
 lets look into documenting issues I encounter at work, might be useful to
 create some resolution file
+
+https://the-algorithms.com/category/datastructures
