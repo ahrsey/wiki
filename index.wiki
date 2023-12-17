@@ -1,4 +1,4 @@
-where idea go to die
+= where ideas go to die =
 
 templates
 overloading for vector math
