@@ -15,8 +15,6 @@ overloading for vector math
 [[electronics]]
 [[game]]
 
-[[fuck the future]]
-
 https://github.com/challenger-deep-theme/themes
 
 Find duplicate lines in file

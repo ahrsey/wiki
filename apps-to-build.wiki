@@ -26,6 +26,8 @@ reimplement some aws stuff
 [[youtube-downloader]]
 [[general-profile]]
 [[encrypted local passwords]]
+[[youtube-private-mode]]
+[[inifite-history-bash]]
 
 [[documentation validation tool]]
 [[installing-missing]]

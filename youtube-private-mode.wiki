@@ -1,0 +1,12 @@
+Use youtube without an account, maybe a browser plugin
+
+= Required features =
+- view videos in private, or download videos to watch
+- queued video downloads
+- save videos and playlists
+
+= Possbile features =
+- history
+
+= Additional possibilities =
+https://www.commandlinefu.com/commands/view/1405/stream-youtube-url-directly-to-mplayer.
