@@ -7,6 +7,7 @@ Use youtube without an account, maybe a browser plugin
 
 = Possbile features =
 - history
+- search using bard maybe to find new videos (apparently better than youtube search)
 
 = Additional possibilities =
 https://www.commandlinefu.com/commands/view/1405/stream-youtube-url-directly-to-mplayer.

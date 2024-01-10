@@ -6,6 +6,7 @@ overloading for vector math
 [[Programming]]
 [[aws]]
 [[apps-to-build]]
+[[game-ideas]]
 [[learning]]
 [[cool stuff]]
 [[dotfiles]]
