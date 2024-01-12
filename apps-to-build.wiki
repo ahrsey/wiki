@@ -28,6 +28,8 @@ reimplement some aws stuff
 [[encrypted local passwords]]
 [[youtube-private-mode]]
 [[inifite-history-bash]]
+[[postman-cli]]
+[[custom-home-page]]
 
 [[documentation validation tool]]
 [[installing-missing]]

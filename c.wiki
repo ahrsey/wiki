@@ -108,3 +108,6 @@ https://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/
 memory on embded
 https://hackaday.com/2018/04/04/the-basics-and-pitfalls-of-pointers-in-c/
 https://hackaday.com/2018/04/19/when-4-1-equals-8-an-advanced-take-on-pointers-in-c/
+
+algos in c
+https://github.com/TheAlgorithms/C

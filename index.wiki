@@ -15,6 +15,7 @@ overloading for vector math
 [[wallpapers]]
 [[electronics]]
 [[game]]
+[[blog]]
 
 https://github.com/challenger-deep-theme/themes
 
