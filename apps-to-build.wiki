@@ -30,6 +30,7 @@ reimplement some aws stuff
 [[inifite-history-bash]]
 [[postman-cli]]
 [[custom-home-page]]
+[[url-shortener]]
 
 [[documentation validation tool]]
 [[installing-missing]]
