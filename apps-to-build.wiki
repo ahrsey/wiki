@@ -31,6 +31,7 @@ reimplement some aws stuff
 [[postman-cli]]
 [[custom-home-page]]
 [[url-shortener]]
+[[web-api-go]]
 
 [[documentation validation tool]]
 [[installing-missing]]
