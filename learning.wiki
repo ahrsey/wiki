@@ -53,3 +53,5 @@ machine learning courses
 https://github.com/microsoft/AI-For-Beginners
 
 https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithmy
+
+bitwise operations for a blog post
