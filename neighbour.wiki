@@ -1,0 +1,13 @@
+= neighbour door =
+
+Infect neighbours style strategy game.
+
+Concept
+You're some sort of creature trying to infect your neighbours to take over the
+neighbour hood. I thought it might be cool to have some mechanics where you
+have to befriend neighbours via different techniques depending ont he neighbour
+to get into their homes to infect them.
+
+It'd be cool if each neighbour had a specfic, complicated way to play the game.
+For example each character has a specific house design and people who live in
+the house with different ways to enter the house.
