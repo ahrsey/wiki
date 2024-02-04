@@ -17,6 +17,8 @@ overloading for vector math
 [[game]]
 [[blog]]
 
+https://www.youtube.com/@GolangCafe
+https://www.youtube.com/watch?v=tCAl8fdqDnM
 https://github.com/challenger-deep-theme/themes
 
 Find duplicate lines in file

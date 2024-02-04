@@ -25,3 +25,7 @@ https://web.mit.edu/6.001/6.037/sicp.pdf
 
 List of Free Learning Resources In Many Languages
 https://github.com/EbookFoundation/free-programming-books
+
+Software Architecture: The Hard Parts: Modern Trade-Off Analyses for
+Distributed Architectures 1st Edition
+https://www.amazon.com/Software-Architecture-Trade-Off-Distributed-Architectures/dp/1492086894
