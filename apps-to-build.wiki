@@ -32,6 +32,7 @@ reimplement some aws stuff
 [[custom-home-page]]
 [[url-shortener]]
 [[web-api-go]]
+[[authentication-api]]
 
 [[documentation validation tool]]
 [[installing-missing]]

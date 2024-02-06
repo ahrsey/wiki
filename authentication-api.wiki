@@ -1,0 +1,4 @@
+For my authentication api
+
+Why is JWT popular?
+https://www.youtube.com/watch?v=P2CPd9ynFLg
