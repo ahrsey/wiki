@@ -16,6 +16,10 @@ overloading for vector math
 [[electronics]]
 [[game]]
 [[blog]]
+[[music]]
+
+https://iq.opengenus.org/
+We are a Scientific Community focused on Computing Research & Publishing.
 
 https://www.youtube.com/@GolangCafe
 https://www.youtube.com/watch?v=tCAl8fdqDnM
