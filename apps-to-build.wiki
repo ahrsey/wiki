@@ -33,6 +33,7 @@ reimplement some aws stuff
 [[url-shortener]]
 [[web-api-go]]
 [[authentication-api]]
+[[text-editor]]
 
 [[documentation validation tool]]
 [[installing-missing]]
