@@ -111,3 +111,6 @@ https://hackaday.com/2018/04/19/when-4-1-equals-8-an-advanced-take-on-pointers-i
 
 algos in c
 https://github.com/TheAlgorithms/C
+
+https://www.chiark.greenend.org.uk/~sgtatham/cdescent/
+https://www.gingerbill.org/
