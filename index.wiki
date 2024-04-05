@@ -18,6 +18,9 @@ overloading for vector math
 [[blog]]
 [[music]]
 
+try to build this
+https://www.youtube.com/shorts/TZWbx34rj-c
+
 cron
 https://crontab.guru/
 
