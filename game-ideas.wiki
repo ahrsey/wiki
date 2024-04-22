@@ -1,3 +1,5 @@
 [[online-rts]]
 [[neighbour]]
 [[roguelike]]
+[[falling game]]
+[[text adventure but with images]]

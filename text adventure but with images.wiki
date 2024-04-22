@@ -1,0 +1,11 @@
+ui map of city with a puzzle and you have to visit different places to finish
+the game and solve mystery.
+
+stats based on things you find that unlock things, and multi different state
+directions to solve things differently.
+
+Fully state based aventure game
+
+Might be interesting to just implement something that reads the states. That
+way I can build a thing that I can just load into the game anytimes and also
+build the story separately.
