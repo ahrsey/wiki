@@ -18,6 +18,13 @@ overloading for vector math
 [[blog]]
 [[music]]
 
+https://austinmorlan.com/posts/entity_component_system/
+https://www.david-colson.com/2020/02/09/making-a-simple-ecs.html
+
+https://www.youtube.com/@tokyospliff
+https://www.youtube.com/@tk_dev988/videos
+https://www.youtube.com/watch?v=Qvlb-Yo6Rqo
+https://www.youtube.com/@ALifeEngineered
 https://www.youtube.com/watch?v=EYt6uDr-PHQ
 https://www.youtube.com/watch?v=WDIkqP4JbkE
 
