@@ -1,0 +1,51 @@
+= Game loop =
+- outside zone 
+- inside zone  or safe zone
+- crafting system
+
+I was thinking there could be a limited amount of inside zones until whoever is
+chasing you in the outside zone finally catches up for an end boss fight.
+
+= Outside zone =
+Top down view to race to next safe place. Not a combat area, maybe you're being
+hunted or there is some danger and you need to get to the next safe zone which
+are inside zones. 
+
+I was thinking this could be where the game starts, and you start by being
+chased into your first safe zone to spend the night where you can fight and
+farm for things. 
+
+= Inside zone =
+Some sort of side scrolling, not sure yet 100%. With collection mechanics,
+collecting items to use for crafting. Random spawns, maybe things that can be
+'farmed' based on items you can make later or something like that. 
+
+So inside zones can each be slightly different with different mechanics but all
+on the same engine. Each level can start off with only a few stages and you can
+go through them to farm or exit early to get items to use to craft better
+weapons, traps or other gear.
+
+Each inside zone allows you to fight less monsters or whatever the mechanic will be.
+
+Could start with two inside zones, maybe one with more jumping and less
+fighting and maybe some hard to get to spots to find the best crafting things
+and one with more monsters more about combat to try and some basic different
+types.
+
+= Crafting system =
+Craft items to improve and progress in other zones.
+
+To start off we could just have craftable weapons instead of all craftable
+items and maybe armour, and maybe some other items.
+
+It'll be important to have many different systems for crafting because they are
+they base of the game and it'd be nice to be able to edit many aspects of the
+game.
+
+It'd be good to have other systems in the game that help with farming more from
+either previous inside zones or outside zones and like professions, that gives
+the game a bit more open feel and allows for farming previous content.
+
+= Character selection =
+different starting sets of craftable items for different play styles maybe or
+start with an amount of currency and buy your starter set

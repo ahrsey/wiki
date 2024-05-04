@@ -1,4 +1,5 @@
-= where ideas go to die =
+ext= where ideas go to die =
+doom 1 kill roo
 
 templates
 overloading for vector math
@@ -19,6 +20,9 @@ overloading for vector math
 [[music]]
 
 https://www.youtube.com/watch?v=A8yArQciBAw
+
+update third track to be something about my site, blog etc start with creating
+a pixel art character
 
 https://www.amazon.co.uk/Stainless-Keyboard-Removal-Removing-Mechanical/dp/B09838V6Q9/ref=sr_1_6?crid=2UQ7CWDO8YTB8&dib=eyJ2IjoiMSJ9.uT6EaLhrkHbOHT19T4503tpr3W_AU0x2CLCb3iYzdgTSVGunbh53ovsgmNMH7mFDPqTSBXzP7ZSQQ4GRBMhMvEaa1bZcjNTAivP_s_YjeEmEb6PwOhXw7f5p2uFR53eZarR4k2oLCxPmDZfGDUBMNflPIvPNXNPtfFPllK7K2Y6edy4AnVrw30KINBf9z9ZYI5Wj3TokDAX5zeE2SP7tXSfrbBLjr-Pp1azkI-e7UpCQfYmcQLj3Ek5Cj55hFFjFT47gk1ZxOKqgXnLNe8w-lxJZwYrXIavkU2wV4YPy6ZE.pSBiS6jloy-Ek7gML5FljLHnneqaGCaV2g-bBt0f4Sc&dib_tag=se&keywords=keycap+puller&qid=1713922480&sprefix=keycap+puller%2Caps%2C94&sr=8-6
 

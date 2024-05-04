@@ -1,1 +1,16 @@
 https://viewsourcecode.org/snaptoken/kilo/
+
+so I was thinking what I want to do is make an editor that makes it easy to
+select things, using similar to vim shortcuts but with easier ways.
+
+Using more f so the idea would be to use f to enter find and then the letter
+you want to match and then each of those letters becomes numbered and you
+select a number.
+
+Something along those lines and when you do a selection it should have a way to
+select more until a point and then run a command on the selection.
+
+There will be a background server waiting for selections to be sent to it to
+run commands, which will be cli commands. And you can write other matchers that
+can be run on selections I want to see how fast I can build this and how well
+it'll perform.
