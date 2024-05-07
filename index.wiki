@@ -1,5 +1,4 @@
-ext= where ideas go to die =
-doom 1 kill roo
+= where ideas go to die =
 
 templates
 overloading for vector math
@@ -18,6 +17,11 @@ overloading for vector math
 [[game]]
 [[blog]]
 [[music]]
+
+check out compiling c with zig
+https://zig.news/kristoff/compile-a-c-c-project-with-zig-368j
+
+https://thp.itch.io/djg-demo-disc-2023
 
 https://www.youtube.com/watch?v=A8yArQciBAw
 
