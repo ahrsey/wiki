@@ -1,7 +1,5 @@
 = where ideas go to die =
 
-templates
-overloading for vector math
 
 [[Programming]]
 [[aws]]
@@ -306,3 +304,6 @@ lets look into documenting issues I encounter at work, might be useful to
 create some resolution file
 
 https://the-algorithms.com/category/datastructures
+
+templates
+overloading for vector math
