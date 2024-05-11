@@ -1,0 +1,16 @@
+Js html renderer for server and client
+
+html structure without an intermediat structure just directly in js, arrays and objects.
+
+`render(html)` = html structure
+
+```js
+const client = render(html, server_requested_api_data)
+const html = [other_html_structure, client]
+const server = render(html, client_requested_api_data)
+```
+
+You'd manually structure which parts to client render and which to server render.
+
+The client rendered part would need to be delivered with the frontend as js,
+but maybe that could simply be a manual process with an assert.

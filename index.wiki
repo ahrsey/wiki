@@ -1,6 +1,5 @@
 = where ideas go to die =
 
-
 [[Programming]]
 [[aws]]
 [[apps-to-build]]
