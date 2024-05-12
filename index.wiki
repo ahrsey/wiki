@@ -1,3 +1,7 @@
+= todo =
+- update wiki to work on remotely
+- create new vimrc
+
 = where ideas go to die =
 
 [[Programming]]
@@ -14,6 +18,9 @@
 [[game]]
 [[blog]]
 [[music]]
+
+get my wiki working
+https://inpyjama.com/arena-allocator-in-c/
 
 git
 https://ohshitgit.com/

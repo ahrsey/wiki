@@ -14,3 +14,42 @@ You'd manually structure which parts to client render and which to server render
 
 The client rendered part would need to be delivered with the frontend as js,
 but maybe that could simply be a manual process with an assert.
+
+= api =
+
+`make_tag(tag, {attr}, children)`
+
+----------------------------------------------------------------------------------------------
+`
+const r = new Renderer()
+
+const text_for_client_rendering = r
+  .make_tag(null, {}, 'text')
+  .on('click', (event, current_element, render) => {
+    event.preventDefaults()
+    current_element.innerText = 
+      current_element.innerText === 'text' ? 'more text' : 'text'
+    render()
+  })
+  
+const html_for_client_rendering = r.make_tag('p', {}, 'more text')
+
+const html_for_static_generation = r.make_tag('main', {}, 
+  [
+    r.make_tag('div', {}, text_for_client_rendering),
+    html_for_client_rendering 
+  ]
+)
+
+r.render_client(text_for_client_rendering)
+r.render_client(html_for_client_rendering)
+r.render_static(html_for_static_generation)
+
+r.on('STATIC', (ast) => {
+  ast.query('html(main)')
+  console.log('static file generation')
+})
+`
+
+render_static generates the html file
+render_client generates a js file that is included in the render_static html file
