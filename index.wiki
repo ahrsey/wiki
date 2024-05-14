@@ -19,6 +19,9 @@
 [[blog]]
 [[music]]
 
+Studying around eventbridge structure
+Read event driven book from Paul
+
 get my wiki working
 https://inpyjama.com/arena-allocator-in-c/
 
