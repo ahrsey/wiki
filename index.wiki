@@ -19,6 +19,9 @@
 [[blog]]
 [[music]]
 
+https://gcher.com/posts/2015-02-13-c-tricks/
+https://hothardware.com/news/cpu-cache-explained
+
 Studying around eventbridge structure
 Read event driven book from Paul
 

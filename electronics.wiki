@@ -1,3 +1,6 @@
 Electronics kits
 These look music related
 https://www.thonk.co.uk/
+
+= commodore64 build related jazz =
+https://retrospective.shop/evo64-rev1/

@@ -29,3 +29,7 @@ https://github.com/EbookFoundation/free-programming-books
 Software Architecture: The Hard Parts: Modern Trade-Off Analyses for
 Distributed Architectures 1st Edition
 https://www.amazon.com/Software-Architecture-Trade-Off-Distributed-Architectures/dp/1492086894
+
+
+Hacker's delight
+https://www.amazon.co.uk/Hackers-Delight-Henry-S-Warren/dp/0321842685
