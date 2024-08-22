@@ -9,3 +9,6 @@ https://www.reddit.com/r/IndieDev/comments/h10a4e/open_source_indie_game_for_nin
 
 snake for the commodore 64
 - PETSCII
+
+
+https://thectoclub.com/news/game-development-books/#game-engine-architecture
